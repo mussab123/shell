@@ -1,0 +1,515 @@
+Entry Number	Album Type	Album Name	Artist	Featured Artists	Song Name	Genre	Release Year	Preview URL
+0	album	Weezer (White Album)	Weezer	None	Thank God for Girls	pop rock	2016	https://p.scdn.co/mp3-preview/33cd42e2f06b0959901dc6b7052dd6bcb05d30c0
+1	single	Hero	Weezer	None	Hero	pop rock	2020	https://p.scdn.co/mp3-preview/b80c8433159195f654287273ea1bc981ff50b539
+2	single	Reflection	Makari	None	Reflection	pop punk	2020	https://p.scdn.co/mp3-preview/9f2707403f73fc12f0844dc3a7d619c89f1eecd0
+3	single	Bombegranate	Berried Alive	None	Bombegranate	djent	2020	https://p.scdn.co/mp3-preview/0fa174b438e5a71db9b4731acd1ce341193b9f48
+4	album	Raised in a Doomsday Cult	Good Tiger	None	Ghost Vomit	djent	2020	https://p.scdn.co/mp3-preview/9714b215415ce8793416bc12712defcb0f008276
+5	album	Empty Black	Greyhaven	None	Echo and Dust Pt. I	progressive metalcore	2018	https://p.scdn.co/mp3-preview/1f0aa582e90585186efccbc7fc9937405573e952
+6	single	Let Go	Makari	None	Let Go	pop punk	2020	https://p.scdn.co/mp3-preview/97c2ed98354e2808e5bc5bb0e83fea59754f0f7b
+7	album	The Ritual	King Mothership	None	Cosmic Meltdown	None	2020	https://p.scdn.co/mp3-preview/5cde556cbd631adbc120063cb8c57b1920b708ad
+8	single	Awe at All Angles (Acoustic)	Moon Tooth	None	Awe at All Angles - Acoustic	proggressive metal	2020	https://p.scdn.co/mp3-preview/dc2fd44890a84ed78898c0287e9e8321305d879b
+9	single	I Can't Remember Love	Anna Hauss	Robert Wienroder, William Horberg	I Can't Remember Love	None	2020	https://p.scdn.co/mp3-preview/894f86cdb510d4833498fffeb73be9f1cd901878
+10	album	19	Adele	None	Make You Feel My Love	pop	2008	https://p.scdn.co/mp3-preview/5b3bfc4c3b98df595f623e86bc0296016030ce20
+11	album	Freeze Frame	The J. Geils Band	None	Centerfold	classic rock	1981	https://p.scdn.co/mp3-preview/e5360d177e1076cdf32a915a9e062bc4172a16c7
+12	album	Freeze Frame	The J. Geils Band	None	Freeze-Frame	classic rock	1981	https://p.scdn.co/mp3-preview/053a851d0603554752be64c2601d38eb6b7024c0
+13	album	1000 gecs and The Tree of Clues	100 gecs	Fall Out Boy, Craig Owens, Nicole Dollanganger	hand crushed by a mallet (Remix)	hyperpop	2020	https://p.scdn.co/mp3-preview/a5ed1b06ace4e5035c1a7e9d43871c84b8c11484
+14	single	Running Out (Live From The Studio)	Astrid S	None	Running Out - Live From The Studio	electropop	2016	https://p.scdn.co/mp3-preview/bb9d2ea7ac5224c9507e9190900b2ca2cadf8e83
+15	single	Real	Unprocessed	Tim Henson, Clay Gober	Real	djent	2020	https://p.scdn.co/mp3-preview/3011a4d543fca575e3f89bdb80f80c559161a96c
+16	single	The Eyes on You	Hotel Mira	None	The Eyes on You	modern alternative rock	2019	https://p.scdn.co/mp3-preview/877a6d5f19769e9221b4f97047243ab825a21663
+17	album	Circulation	Hotel Mira	None	Southern Comforting	modern alternative rock	2014	https://p.scdn.co/mp3-preview/d3fe9a538d3e3423e86ecfd8c03f1d6a4355ccb0
+18	album	XX	Great Big Sea	None	Consequence Free	celtic rock	2012	https://p.scdn.co/mp3-preview/f3e623f6916efd8c400465a2ae247ed732440864
+19	album	Safe Upon The Shore	Great Big Sea	None	Follow Me Back	celtic rock	2010	https://p.scdn.co/mp3-preview/0d0367622f85d8f923cac41d51b97d7806f7f75d
+20	album	Great Big Sea	Great Big Sea	None	I'se the B'y	celtic rock	1993	https://p.scdn.co/mp3-preview/edfb9e188332a083eef6f8b21415d5bc68ec2a2a
+21	album	Play	Great Big Sea	None	When I'm Up - I Can't Get Down	celtic rock	1995	https://p.scdn.co/mp3-preview/18e7994b4ee5235aa42d9e407f8928e2b9dc8772
+22	album	Dopamine	BORNS	None	American Money	modern rock	2015	https://p.scdn.co/mp3-preview/2ba6a35f2a3d5aceec84dacb39d7d2a0d6c4eb37
+23	album	Honeymoon	Beach Bunny	None	Cloud 9	indie pop	2020	https://p.scdn.co/mp3-preview/05e93e38ccd5d6a113d433bc7c2235592db0cfb4
+24	album	Montgomery Ricky	Ricky Montgomery	None	Line Without a Hook	indie pop	2016	https://p.scdn.co/mp3-preview/f33b9063e8da2ccbc4f842fdd4319ecdadfe5868
+25	album	Cosmicandy	The Orion Experience	None	The Cult of Dionysus	stomp pop	2006	https://p.scdn.co/mp3-preview/cbc5b980858476e8b75216cc864f40dcd6665976
+26	album	Bigger Than Both Of Us	Daryl Hall & John Oates	None	Rich Girl	classic rock	1976	https://p.scdn.co/mp3-preview/90fabcf68d0219dd17e5f5b4742bc524d738e5fb
+27	single	Float	Call Me Karizma	None	Float	emo rap	2020	https://p.scdn.co/mp3-preview/a7e722c545b9bee2b8ca531f7ffcf3c5e8a3efb9
+28	album	Sordid Pink	Sordid Pink	None	Drive	None	2020	https://p.scdn.co/mp3-preview/0424609e90dd664abb07e3931c081a31ffe8eff2
+29	album	AMOK	Atoms For Peace	None	Ingenue	electronic rock	2013	https://p.scdn.co/mp3-preview/4358632cce8e87b6d44896a40d55cc246c9973e9
+30	album	Down To Earth	Flight Facilities	Giselle	Crave You	alternative dance	2014	https://p.scdn.co/mp3-preview/1e4f201d4d9cc2700fd15b8bb6a2c6674784b01f
+31	single	Saint Bernard	Lincoln	None	Saint Bernard	indie pop	2020	https://p.scdn.co/mp3-preview/44821cad1ce1c648a19013cce1ef050e108df04e
+32	album	Fashionably Late (Deluxe Edition)	Falling In Reverse	None	Bad Girls Club	pop punk	2013	https://p.scdn.co/mp3-preview/5c5ef0206c3450d715948985b42a8f74213f2168
+33	album	Mmhmm	Relient K	None	Who I Am Hates Who I've Been	pop rock	2004	https://p.scdn.co/mp3-preview/3349e0cac3dd3eaea3638ba72599418fcc90a6cf
+34	album	21	Adele	None	One and Only	pop	2011	https://p.scdn.co/mp3-preview/f3008cce692787ee02169221f60d357d707e4705
+35	single	Thumbnail	Louie Zong	Brian David Gilbert	Thumbnail	None	2018	https://p.scdn.co/mp3-preview/1cf1229e174b4346340f2b8143dc9f078ae53fee
+36	single	Ghost Duet	Louie Zong	None	Ghost Duet	None	2017	https://p.scdn.co/mp3-preview/1b2393ace8a088787c041174870eeae5813c0bb6
+37	album	After The Party	The Menzingers	None	Your Wild Years	pop punk	2017	https://p.scdn.co/mp3-preview/84ee1998c16f1e3e6aa8ec3cbe97da3a8d942e06
+38	album	Pkew Pkew Pkew	Pkew Pkew Pkew	None	Mid 20's Skateboarder	indie punk	2016	https://p.scdn.co/mp3-preview/26ef38f754919f625dd667dd52404d74791316b7
+39	album	Not Like This	Iron Chic	None	Cutesy Monster Man	indie punk	2010	https://p.scdn.co/mp3-preview/cc6400cfb35d29885fa47f15a3afabedd1bbe3bd
+40	album	Loop Daddy III	Marc Rebillet	None	Girl's Club	None	2020	https://p.scdn.co/mp3-preview/67383747933964b37baa7608a3c433040382155d
+41	album	1000 gecs	100 gecs	Laura Les, Dylan Brady	stupid horse	hyperpop	2019	https://p.scdn.co/mp3-preview/4c3aef74f90d4f6921b282cc34b4d18ae032bdc0
+42	album	The Gloomy Tapes, Vol. 2	Call Me Karizma	None	Rebels	emo rap	2019	https://p.scdn.co/mp3-preview/e2d36114338bad011118435910eda63951150d82
+43	album	1000 gecs	100 gecs	Laura Les, Dylan Brady	ringtone	hyperpop	2019	https://p.scdn.co/mp3-preview/fc99fc7b40f7258dde7291a93e42ec9e176c8fda
+44	album	1000 gecs	100 gecs	Laura Les, Dylan Brady	money machine	hyperpop	2019	https://p.scdn.co/mp3-preview/c2daaf55e5a1726da4b2d191108c6089fb59a7d4
+45	album	Entertainment	Waterparks	None	Blonde	pop punk	2018	https://p.scdn.co/mp3-preview/afea3bb5c90744119010a2e180552439f2dbbc0a
+46	album	Omniscience	DEMATERIALIZE	Notions	Summer	american metalcore	2020	https://p.scdn.co/mp3-preview/c809ead252dce51fe3ac27718c843cc8c9428a4d
+47	single	E-GIRLS ARE RUINING MY LIFE!	CORPSE	Savage Ga$p	E-GIRLS ARE RUINING MY LIFE!	None	2020	https://p.scdn.co/mp3-preview/c963d7fa7286d547b586f67517c8cc20178f0ee6
+48	album	Lucy Gray	Envy On The Coast	None	Sugar Skulls	pop punk	2007	https://p.scdn.co/mp3-preview/648d2ac3c84571929b76cbe5315cc7d99c6529d3
+49	compilation	Mean Girls (Original Broadway Cast Recording)	Taylor Louderman	Original Broadway Cast of Mean Girls	World Burn	broadway	2018	https://p.scdn.co/mp3-preview/569e086e8ec4303cf26fae27346e8344e0fd8284
+50	single	Better off Together	The Reign of Kindo	None	Better off Together	progressive post-hardcore	2020	https://p.scdn.co/mp3-preview/5ffa55355f802ed0d203efafb6363944431bde47
+51	single	Take Me Away	Ayron Jones	None	Take Me Away	seattle indie	2020	https://p.scdn.co/mp3-preview/ac7c2816f15d17ea99554e9844018bfd33b32f47
+52	single	Do It for Me	Rosenfeld	None	Do It for Me	None	2018	https://p.scdn.co/mp3-preview/5a9adf7f47e3c0fa7944d6c6550cc11523ba5cb2
+53	album	A Lesson In Romantics	Mayday Parade	None	Black Cat	pop punk	2007	https://p.scdn.co/mp3-preview/33bd80994e032f01028b9c43c45a1f65310d20d9
+54	album	Love Is a Four Letter Word (Deluxe Edition)	Jason Mraz	None	I Won't Give Up	acoustic pop	2012	https://p.scdn.co/mp3-preview/1fc135f92f01b35c3c03b4dea2ca13ee15b5427d
+55	single	Wolf in Sheep's Clothing (Acoustic)	Set It Off	None	Wolf In Sheep's Clothing - Acoustic	pop punk	2019	https://p.scdn.co/mp3-preview/09474ee6e374d46965c27897c2ad1bd45711f7dc
+56	album	Ever After	Marianas Trench	None	B Team	pop punk	2012	https://p.scdn.co/mp3-preview/922bc0931c55338b4cd7eedef67ba09e93fe7ca0
+57	single	Follow the Sun	Caroline Pennell	None	Follow the Sun	indie poptimism	2016	https://p.scdn.co/mp3-preview/25d2eb6434f0f8c354cb296f2f34ae88174ec034
+58	album	Monuments And Melodies	Incubus	None	Stellar	pop rock	2009	https://p.scdn.co/mp3-preview/a6717f6a48ec8555ffdaa3cf04a30dd4f2de115d
+59	album	The Drug In Me Is You	Falling In Reverse	None	I'm Not A Vampire	pop punk	2011	https://p.scdn.co/mp3-preview/c46e619124ebe52927af4053b145eca349c7c20d
+60	album	Rain In July	Neck Deep	None	A Part Of Me	pop punk	2013	https://p.scdn.co/mp3-preview/a9666bd1c96de0e73d8e5559fdd35763c0616c0e
+61	album	A Lesson In Romantics	Mayday Parade	None	Jersey	pop punk	2007	https://p.scdn.co/mp3-preview/770156be9da569f6bb49d0675b1c86215936fd19
+62	single	Popular Monster	Falling In Reverse	None	Popular Monster	pop punk	2019	https://p.scdn.co/mp3-preview/18707ef9fd54e5d0f14bbc69304284b2af44307c
+63	album	Symphony Soldier	The Cab	None	Temporary Bliss	pop rock	2011	https://p.scdn.co/mp3-preview/72a4562263d053d7ccdc6276dc088f47fddf35d3
+64	album	Disease	Beartooth	None	Disease	post-screamo	2018	https://p.scdn.co/mp3-preview/9425cff32792b9a8e03ba41ee5a2c704957f51cf
+65	album	Just Like You (Deluxe Edition)	Falling In Reverse	None	Just Like You	pop punk	2015	https://p.scdn.co/mp3-preview/5a5249a343fa22911c47025ecc6f01d343c1ba77
+66	album	A Fever You Can't Sweat Out	Panic! At The Disco	None	Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off	pop punk	2005	https://p.scdn.co/mp3-preview/97a3af44edbcbd780ac66a3c4c5060a1288e0daa
+67	single	Black in Every Color	Happy Hour	None	Black in Every Color	progressive post-hardcore	2019	https://p.scdn.co/mp3-preview/c51a1aa15eec0e6779bbb700483d3fd8600fa6cb
+68	album	Stars	Shapeshifter NZ	None	Oculus	None	2016	https://p.scdn.co/mp3-preview/07eec630f9f965019833d9bfa901672f13deeeb3
+69	single	I'm Too Sensitive For This Shit	Hayley Kiyoko	None	Demons	dance pop	2019	https://p.scdn.co/mp3-preview/e32a0ac823411d0319a78f8119c1b4b4a5e167ee
+70	album	10,000 Days	TOOL	None	Jambi	progressive metal	2006	https://p.scdn.co/mp3-preview/8f5bb510159aa128296873a108e85ecdac51e452
+71	album	Megalithic Symphony Deluxe	AWOLNATION	None	Sail	pop rock	2011	https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb
+72	album	Death of a Bachelor	Panic! At The Disco	None	Victorious	pop punk	2016	https://p.scdn.co/mp3-preview/1f5f24f8f0dfa6d3b7baea9c5fa9c45278abbe35
+73	album	Stunt (20th Anniversary Edition)	Barenaked Ladies	None	It's All Been Done	pop rock	1998	https://p.scdn.co/mp3-preview/a4a8aa00ecdf8a9f49c956bd6e42c8a4590bb570
+74	single	One Big Bed	Emily Axford	None	One Big Bed	None	2020	https://p.scdn.co/mp3-preview/012e2f9da365e0e90415b342945921e1ca5edf26
+75	single	BAD KARMA	Gabbie Hanna	None	Bad Karma	pop	2020	https://p.scdn.co/mp3-preview/c4a0e698b7fbc63812f09f85c62144ae550e8f24
+76	single	Wish We Never Met	WhoHurtYou	None	Wish We Never Met	None	2019	https://p.scdn.co/mp3-preview/924bee9cee0f4a1a4b45c2af67f3a95de0d12191
+77	single	What Happens When I Try to Relax	Open Mike Eagle	None	Microfiche	abstract hip hop	2018	https://p.scdn.co/mp3-preview/0f3056ffa556b25d87c314e29482583606858706
+78	album	Placement	Watsky	None	Advanced Placement	pop rap	2020	https://p.scdn.co/mp3-preview/2bc233b9191492b4c0a5e3bb7ff970d549dac7cf
+79	album	Hokey Fright (Deluxe Version)	The Uncluded	None	Bats	abstract hip hop	2013	https://p.scdn.co/mp3-preview/5650efdfc9d577898a75439b05d65e0a492aabd9
+80	single	Cooped Up	Spose	Ekoh	Cooped Up	indie pop rap	2020	https://p.scdn.co/mp3-preview/177e8272e06369e2dea638e3e05c92217a4418e8
+81	album	Infinity Rock Explosion!	The Axis of Awesome	None	WWJD?	comic	2010	https://p.scdn.co/mp3-preview/77992ccae8c0d421163d5800be61aca922dd501c
+82	album	Secretions	Garfunkel and Oates	None	The Loophole	comic	2015	https://p.scdn.co/mp3-preview/b41e9eeee4684eb620705c15a6d05c88c6836e85
+83	album	Cosmic Thing	The B-52's	None	Love Shack	new wave pop	1989	https://p.scdn.co/mp3-preview/33813193c01f1c42416b328c7f5f3116cb603865
+84	album	Big Vibe	Seaway	None	Big Vibe	pop punk	2020	https://p.scdn.co/mp3-preview/db563a4d1e426ad4766508d0a37368806a9b98fc
+85	album	Onka's Big Moka	Toploader	None	Dancing in the Moonlight	british alternative rock	2000	https://p.scdn.co/mp3-preview/d4a0e1cd08839a722f4f2af160aabac07371ecd2
+86	album	The Black Parade	My Chemical Romance	None	Dead!	pop punk	2006	https://p.scdn.co/mp3-preview/061be493ff5bc095746c9f78d9638e430e99721f
+87	album	Picture Perfect	Every Avenue	None	Tell Me I'm A Wreck	pop punk	2009	https://p.scdn.co/mp3-preview/5a7fb88d7c36a1377d259d391d4c9daf95a43e3a
+88	album	folklore	Taylor Swift	None	mad woman	pop	2020	https://p.scdn.co/mp3-preview/b852d95b5513744c01ec695e93bcc33f025ecd7b
+89	single	Don't Be Sad	Scotty Sire	None	Don't Be Sad	social media pop	2020	https://p.scdn.co/mp3-preview/92834c4254f25b6891d5026e1245c1f104a894e7
+90	album	FANDOM	Waterparks	None	I Miss Having Sex But At Least I Don't Wanna Die Anymore	pop punk	2019	https://p.scdn.co/mp3-preview/92dba1ec32d88cd6b53a3b8881d3f0eed0e5797d
+91	single	Broke Bitch	Tiny Meat Gang	None	Broke Bitch	meme rap	2020	https://p.scdn.co/mp3-preview/80c352f861302c587809927cb5a04dbfad29d7ff
+92	album	Double Dare	Waterparks	None	Stupid for You	pop punk	2016	https://p.scdn.co/mp3-preview/592ce72991fcdf807d81da015816e7a7101cb2c2
+93	album	Entertainment	Waterparks	None	Blonde	pop punk	2018	https://p.scdn.co/mp3-preview/afea3bb5c90744119010a2e180552439f2dbbc0a
+94	album	From Under The Cork Tree	Fall Out Boy	None	Sugar, We're Goin Down	pop punk	2005	https://p.scdn.co/mp3-preview/95a3a58e7d6dbd9f48cae8506584bcc4d1cfa558
+95	single	Alaska	Little Hurt	None	Alaska	None	2020	https://p.scdn.co/mp3-preview/dd51236602a062950c35016acfdacd51bc622cce
+96	album	songs from 3am	carobae	None	i don't miss u	indie cafe pop	2019	https://p.scdn.co/mp3-preview/4bf2009402e37fda38409697a804c93965746c62
+97	album	See You When I am Famous!!!!!!!!!!!!	KYLE	Rico Nasty	GIRLS	pop rap	2020	https://p.scdn.co/mp3-preview/f924fa85dec59ef3c59fa8c56e62d1605ef2abd9
+98	single	Quarantine Queen	Todrick Hall	None	Tiktok	dance pop	2020	https://p.scdn.co/mp3-preview/ca4178ce85314e2e9afea8c1adad832b06e82e0b
+99	single	Quarantine Queen	Todrick Hall	None	Werk out	dance pop	2020	https://p.scdn.co/mp3-preview/2f295d53ea9a9c8320a2c04f4373202b974ecbdd
+100	album	Glitterbug	The Wombats	None	Greek Tragedy	modern alternative rock	2015	https://p.scdn.co/mp3-preview/cceed633deb2affea32516879af237731ff1436d
+101	album	Pure Heroine	Lorde	None	Ribs	pop	2013	https://p.scdn.co/mp3-preview/421686c95e3c281fa45ab58be8d94722632b3968
+102	album	A Brief Inquiry Into Online Relationships	The 1975	None	I Always Wanna Die (Sometimes)	modern alternative rock	2018	https://p.scdn.co/mp3-preview/8beeea4d27b03aebbe8035cc0cb69973274473d8
+103	album	Forbidden	Todrick Hall	None	Type	dance pop	2018	https://p.scdn.co/mp3-preview/8a8921d50b9dacb430c382d110192a363291b3f0
+104	album	Forbidden	Todrick Hall	Jade Novah	Eleven	dance pop	2018	https://p.scdn.co/mp3-preview/30e5c9879ad403c5891c89e34f50438c0681da82
+105	album	Straight Outta Oz	Todrick Hall	None	Home	dance pop	2016	https://p.scdn.co/mp3-preview/075bf735cc4c0caf7eef9e70221bf1080327beac
+106	album	Straight Outta Oz	Todrick Hall	Jay Armstrong Johnson	Color	dance pop	2016	https://p.scdn.co/mp3-preview/fd31483b7a47417aeaae9d74cb94a71768d79a26
+107	album	Roosevelt	Roosevelt	None	Colours	indie emo	2016	https://p.scdn.co/mp3-preview/d242a862b179e2b2b48f4310d652f73c148568ea
+108	album	From Under The Cork Tree	Fall Out Boy	None	Dance, Dance	pop punk	2005	https://p.scdn.co/mp3-preview/13e7c7ec97da26314b950a267377f39a46360d25
+109	single	Dear BlackSheepe	Josh Dean	None	DropDead	None	2019	https://p.scdn.co/mp3-preview/f22dbc043dde7db613c89d464d5accd4d4de1129
+110	single	Nowadays	Valleyheart	None	Nowadays	pop punk	2017	https://p.scdn.co/mp3-preview/2a99c724b7d7cf9bf19a3076b59927f11b4f1cc2
+111	album	No Gods \ No Managers	Choking Victim	None	Hate Yer State	punk	1999	https://p.scdn.co/mp3-preview/cc1e486a2692ced871ccf62a81216a1de23008be
+112	compilation	RENT (Original Motion Picture Soundtrack)	Idina Menzel	Tracie Thoms	Take Me or Leave Me	broadway	2005	https://p.scdn.co/mp3-preview/a3044c0715eba1c590b26d7ddc5fc199ce6ae6ca
+113	album	Pure Heroine	Lorde	None	Tennis Court	pop	2013	https://p.scdn.co/mp3-preview/b91c1178028e139cf5e92457fa35c92d17e2e90e
+114	album	Back To Black	Amy Winehouse	None	Back To Black	pop soul	2006	https://p.scdn.co/mp3-preview/7bea399456e6b365698bd295f5272d358a6da77b
+115	album	All Rebel Rockers	Michael Franti & Spearhead	Cherine Tanya Anderson	Say Hey (I Love You)	reggae fusion	2008	https://p.scdn.co/mp3-preview/e0e696e851a825de3a4fcfa72a7cd6862d3deef1
+116	album	RTJ4	Run The Jewels	None	walking in the snow	hip hop	2020	https://p.scdn.co/mp3-preview/cd41fc2865f6e2f5cd99ac023709778c6b61ce15
+117	album	Hamilton (Original Broadway Cast Recording)	Phillipa Soo	Lin-Manuel Miranda	That Would Be Enough	broadway	2015	https://p.scdn.co/mp3-preview/62d4ff67d87f40e49a78ca21da6ea725ed7cccdb
+118	album	Tired Of Hanging Around	The Zutons	None	How Does It Feel	indie rock	2006	https://p.scdn.co/mp3-preview/8e59702558b1495b66f219da65fbb40770daa277
+119	album	Who Killed The Zutons?	The Zutons	None	Dirty Dancehall	indie rock	2004	https://p.scdn.co/mp3-preview/3a6fb33124421d1e06e2e60876bf57c484c39438
+120	album	Who Killed The Zutons?	The Zutons	None	You Will You Won't	indie rock	2004	https://p.scdn.co/mp3-preview/47f5b5e65e6c84cbf8912237a466383d97facd78
+121	album	Tired Of Hanging Around	The Zutons	None	Valerie	indie rock	2006	https://p.scdn.co/mp3-preview/b1f9203a6e9819e717a3e827b291cd5a7b265587
+122	album	Hamilton (Original Broadway Cast Recording)	Jasmine Cephas-Jones	Leslie Odom Jr., Lin-Manuel Miranda, Sydney James Harcourt, Original Broadway Cast of Hamilton	Say No to This	broadway	2015	https://p.scdn.co/mp3-preview/5287cdffe0f1eef85a206abf6c67ae2a1f92ec09
+123	single	Hi, It's Me	Ashnikko	Yung Baby Tate	STUPID	pop	2019	https://p.scdn.co/mp3-preview/61b13f60bba8b0c04cce0cb5e34a3c9e06482610
+124	album	RTJ4	Run The Jewels	None	a few words for the firing squad (radiation)	hip hop	2020	https://p.scdn.co/mp3-preview/5b4cd960bfa18ff5605fde8463ebc6a80c849973
+125	album	A Short Story About A War	Shad	None	The Fool Pt 1 (Get it Got it Good)	alternative hip hop	2018	https://p.scdn.co/mp3-preview/26a303ba1a53196fc12186ed2ca6f25bbfbccfe2
+126	single	Yo Love (From "Queen & Slim: The Soundtrack")	Vince Staples	6LACK, Mereba	Yo Love - From "Queen & Slim: The Soundtrack"	hip hop	2019	https://p.scdn.co/mp3-preview/c3141730ac1bed02feebb0b6e896252171a370fb
+127	album	Even If It Kills Me	Motion City Soundtrack	None	This Is For Real	pop punk	2008	https://p.scdn.co/mp3-preview/70d1ca22986a99d2bcdc631ab2de1e36b66c5139
+128	album	Little Hell	City and Colour	None	Hope for Now	canadian indie	2011	https://p.scdn.co/mp3-preview/9da1da4e4fc1ed2847c7e867c53527726e6dad2e
+129	single	Falling	Rezz	Underoath	Falling	edm	2019	https://p.scdn.co/mp3-preview/8901b28cee0e2008397709c738128b341b2a030a
+130	compilation	Beetlejuice (Original Broadway Cast Recording)	Sophia Anne Caruso	Beetlejuice Original Broadway Cast Recording Ensemble	Dead Mom	broadway	2019	https://p.scdn.co/mp3-preview/6a373b33542a0be3388b060657ea29563c5fc5b0
+131	single	MakeDamnSure	Stand Atlantic	None	MakeDamnSure	pop punk	2019	https://p.scdn.co/mp3-preview/382f34bcfc36e2df16fc2c954141a769dc94c39a
+132	single	It Is What It Is	Mayday Parade	None	It Is What It Is	pop punk	2020	https://p.scdn.co/mp3-preview/ac9449988ea73a620c9cfc3f9eb7d57f769e6131
+133	album	This is a Stick Up...don't Make It a Murder	Hit The Lights	None	Bodybag	pop punk	2006	https://p.scdn.co/mp3-preview/942735c6b7210cfb5bda404e33ed5f46eaae1ce7
+134	single	Feel Good Now	The Ready Set	None	Killer	pop punk	2011	https://p.scdn.co/mp3-preview/5dd2ed5012d48764e4fa233f1262712fdf14cfb1
+135	album	Til the Casket Drops	ZZ Ward	Kendrick Lamar	Cryin Wolf	modern alternative rock	2012	https://p.scdn.co/mp3-preview/4447ffc62a813c56944d309e080dcd711d45a414
+136	album	Sorry, Mom	Destroy Boys	None	I Threw Glass at My Friend's Eyes and Now I'm on Probation	indie pop	2017	https://p.scdn.co/mp3-preview/5b1298788a516532d016d4a1f8baad07bcad4c30
+137	single	LEMONS (Demo)	Brye	None	LEMONS - Demo	indie pop	2020	https://p.scdn.co/mp3-preview/f783dd75de498f0b004388379ae930498650aa2d
+138	single	Oreo	Yung Fuego	Swag Money	Oreo	None	2020	None
+139	album	Even If It Kills Me (10th Anniversary Edition)	Motion City Soundtrack	None	Fell In Love Without You - Acoustic	pop punk	2017	https://p.scdn.co/mp3-preview/03e73b861181ca3d31c371bb3e1cce43ed3ba0c5
+140	album	Just The Best Party	World \ Inferno Friendship Society	None	All The World Is A Stage (Dive)	ska punk	2002	https://p.scdn.co/mp3-preview/68bc112545db2eb79b86ea658317914291d0e2e2
+141	album	Less Talk, More Rock	Propagandhi	None	A Public Dis-Service Announcement from Shell	punk	1996	https://p.scdn.co/mp3-preview/ed7d931f2cd129396eb1836db404f59ee467eee4
+142	album	Red-Eyed Soul	World \ Inferno Friendship Society	None	Brother of the Mayor of Bridgewater	ska punk	2006	https://p.scdn.co/mp3-preview/e36f9d92748a9d6e27f36c48c851c33d8d634ad0
+143	album	Fuck World Trade (Reissue)	Leftover Crack	None	Feed the Children (Book of Lies)	ska punk	2004	https://p.scdn.co/mp3-preview/2361395eaf19baba35e1abe9b13f86cc840ff77c
+144	album	Addicted to Bad Ideas	World \ Inferno Friendship Society	None	Ich erinnere mich an die weimarer republik	ska punk	2007	https://p.scdn.co/mp3-preview/b90228c292860a806346ca6e7421cb8b957ac8a6
+145	single	Men Are Trash	Scotty Sire	None	Men Are Trash	social media pop	2020	https://p.scdn.co/mp3-preview/72873ddf5c423ef1af92887adcb0d3c7ac2359f0
+146	album	Ego Death	The Internet	None	Special Affair	alternative r&b	2015	https://p.scdn.co/mp3-preview/8bae5d1a8b4575fa27b08c4382a5397e254306b4
+147	album	The Great Burrito Extortion Case	Bowling For Soup	None	High School Never Ends - Main Version - Explicit	pop punk	2006	https://p.scdn.co/mp3-preview/95fc8530bddbea7cf656b11192aa55a2c581c271
+148	album	Keine Nacht fur Niemand	Kraftklub	None	Chemie Chemie Ya	german rock	2017	https://p.scdn.co/mp3-preview/acc973b1c3c6f6276cc6c274a9d05e27fff9db81
+149	single	Oh Yeah!	Green Day	None	Oh Yeah!	pop punk	2020	https://p.scdn.co/mp3-preview/d9c3dff24392b934c0a4b5362369fa93bed16900
+150	album	Billy Talent	Billy Talent	None	Prisoners of Today	pop punk	2003	https://p.scdn.co/mp3-preview/244fdab3cd8e6dae24bf69c300bb2da794870038
+151	album	Billy Talent	Billy Talent	None	Standing in the Rain	pop punk	2003	https://p.scdn.co/mp3-preview/e42d5f3102696188e6d0f4409e509e5d1a1c55a2
+152	album	Billy Talent	Billy Talent	None	The Ex	pop punk	2003	https://p.scdn.co/mp3-preview/d1fb0643d67f79763d8283d79bd6a2c42c4ab713
+153	album	Billy Talent	Billy Talent	None	Nothing to Lose	pop punk	2003	https://p.scdn.co/mp3-preview/e8669fa62d9e58e35f51165a3cfea8d14f0e7ce1
+154	album	Billy Talent II	Billy Talent	None	Devil in a Midnight Mass	pop punk	2006	https://p.scdn.co/mp3-preview/66f8710c3bf92b69452c39ee2498eef87fd0172a
+155	single	Blossom	Coletta	None	Blossom	pop punk	2018	https://p.scdn.co/mp3-preview/faad55816ee2ef8e759e0d4a0aa04ba507e25f54
+156	single	Button Season	Origami Button	None	Sorbet	pop punk	2019	https://p.scdn.co/mp3-preview/34782bdbfc1815bf329fdab11230757aafd9ae9e
+157	album	RICH SIPS	Bilmuri	No Dice	SOURDOUGHSTARTER	pop punk	2019	https://p.scdn.co/mp3-preview/977f37c47c759f21de2da7973dacb12706defc3e
+158	single	Monstro	Wolf & Bear	None	Monstro	pop punk	2020	https://p.scdn.co/mp3-preview/f8b565ea5414048779a6875ed409dcaca4d0b3cf
+159	single	Mind & Time	Coletta	None	Handbook for the Recently Deceased	pop punk	2018	https://p.scdn.co/mp3-preview/000c5d73c26ac968100ad788d541903a8d07aecc
+160	album	Meta +	Maraton	None	Prime	norwegian prog	2020	https://p.scdn.co/mp3-preview/5d23594dc2e58e0539debaf685b8f45be5eec9e1
+161	single	Transient (acoustic)	Makari	None	Transient (acoustic)	pop punk	2020	https://p.scdn.co/mp3-preview/6080ae71d01be50c24925c348b53acf9e655bdb2
+162	single	Blossom	Coletta	None	Blossom	pop punk	2018	https://p.scdn.co/mp3-preview/faad55816ee2ef8e759e0d4a0aa04ba507e25f54
+163	single	Misery Business	Machine Gun Kelly	Travis Barker	Misery Business	pop rap	2020	https://p.scdn.co/mp3-preview/60e1df41e096d4126a51efb7fc030d70c131cc14
+164	album	Hotel Diablo	Machine Gun Kelly	YUNGBLUD, Travis Barker	I Think I'm OKAY	pop rap	2019	https://p.scdn.co/mp3-preview/0657c43479b44221f95fb3e56162307f4239e19a
+165	album	Spiritbox	Spiritbox	None	The Mara Effect, Pt.3	djent	2017	https://p.scdn.co/mp3-preview/4a6b17cb571b5921f6c9da72a42fc397bebc35f1
+166	single	Redux	Good Tiger	None	Salt of the Earth - Acoustic	djent	2019	https://p.scdn.co/mp3-preview/9e01fbf7ea1d95cc876a546701fe5150ad0fa717
+167	album	To The Bone	Steven Wilson	None	To The Bone	progressive metal	2017	https://p.scdn.co/mp3-preview/efaf69e502881071ae2fca331f3d622a0ee78691
+168	album	Under the Red and White Sky	John Wesley	None	Rome is Burning	neo-progressive	1994	https://p.scdn.co/mp3-preview/45bf79b2ed75e8467bcbc84590686a98e3b3a52e
+169	album	Sunsets & Car Crashes	The Spill Canvas	None	The Tide	pop punk	2003	https://p.scdn.co/mp3-preview/a2626a0b11ffbc6fa9bf1e76e64f1c2b5a690dc1
+170	album	Haus Party, Pt. 1	Todrick Hall	None	Relove	dance pop	2019	https://p.scdn.co/mp3-preview/78fa995005e88b5d5388204151dc05ed84fdba36
+171	album	Haus Party, Pt. 1	Todrick Hall	None	Glitter	dance pop	2019	https://p.scdn.co/mp3-preview/a3a9dbec931a9db0cdced54492288f3c2c96692d
+172	album	Haus Party, Pt. 1	Todrick Hall	None	Attention	dance pop	2019	https://p.scdn.co/mp3-preview/0b3ad35b3a65dfab6f9e9e76b5c3744d0e0e8dbc
+173	single	Thinking 'Bout You	Dua Lipa	None	Thinking 'Bout You	dance pop	2017	https://p.scdn.co/mp3-preview/d4173229065432870fbd7e87736792736b29e5d6
+174	album	EPdemic	illScarlett	None	Rally - New Mix - 2008	pop punk	2006	https://p.scdn.co/mp3-preview/8005b2b48ab8a07633403e4ca8a785be73fcd7c2
+175	album	EPdemic	illScarlett	None	Mary Jane - New Mix - 2008	pop punk	2006	https://p.scdn.co/mp3-preview/c0151dd9d712b062876e3427e40eec41637e8083
+176	album	Why You Wanna Leave, Runaway Queen?	Lisa LeBlanc	None	5748 Km	canadian folk	2016	https://p.scdn.co/mp3-preview/0229d12ac51a520b65915a4082400d416ab5ff91
+177	album	The Head and the Heart	The Head and the Heart	None	Rivers and Roads	indie folk	2011	https://p.scdn.co/mp3-preview/cbf9d2b89581a19529b5f35bd7f42cb75bb75fa6
+178	album	Surf	Donnie Trumpet & The Social Experiment	None	Sunday Candy	pop soul	2015	https://p.scdn.co/mp3-preview/7a6944ec3bd4bd1ea1a5a27cc15ef81fe229a707
+179	album	In Absentia	Porcupine Tree	None	Trains	progressive metal	2002	https://p.scdn.co/mp3-preview/486068fcd65339b8e41f2002036dab20caeb5488
+180	album	Portal of I	Ne Obliviscaris	None	Forget Not	progressive metal	2012	https://p.scdn.co/mp3-preview/5dd0f53460081468953a01bfff6232e0d88c6f82
+181	album	The Big Come Up	The Black Keys	None	Do The Rump	alternative rock	2002	https://p.scdn.co/mp3-preview/c33ac58a0bd1d4835742e9c32316aef914acdb0b
+182	single	Cathedral Bell	The Used	None	Cathedral Bell	pop punk	2020	https://p.scdn.co/mp3-preview/c734b03eee964462147c928fb0414f964ce679ef
+183	album	Zombies! Aliens! Vampires! Dinosaurs!	Hellogoodbye	None	Homewrecker	pop punk	2006	https://p.scdn.co/mp3-preview/d7a19d1667a2e87d4137099ff9a0e2f08442a06b
+184	album	Freedom Finger (Music from the Game)	Aesop Rock	None	Play Dead	hip hop	2020	https://p.scdn.co/mp3-preview/6cddada5a0e8d8b624d3f918a05cdbfa5d18aad1
+185	single	Lyrics Lie	Dance Gavin Dance	None	Strawberry's Wake	pop punk	2020	https://p.scdn.co/mp3-preview/b432a5d30bbb950b943ab84251e7faf5f12e898e
+186	album	Haus Party, Pt. 2	Todrick Hall	None	Y.A.S.	dance pop	2019	https://p.scdn.co/mp3-preview/3e3a9b7f471de47910d830a00c42bde980ea629f
+187	single	Magic Happens (From 'The Disneyland Parade, Magic Happens')	Todrick Hall	None	Magic Happens - From 'The Disneyland Parade, Magic Happens'	dance pop	2020	https://p.scdn.co/mp3-preview/336e3b9243a6571fe572ac6b2995a35104c76363
+188	single	Prosthetic	Haken	None	Prosthetic	progressive metal	2020	https://p.scdn.co/mp3-preview/91fa9ed5fc9b78551e5dc5498d417838d2f1193e
+189	single	The Cherrytree Sessions	Matthew Koma	None	Clarity - Live At The Cherrytree House\2013	pop edm	2013	https://p.scdn.co/mp3-preview/1d55c02a38ab1bdb4d08c5cba2425f6424b6956d
+190	album	Nicotine	Trevor Daniel	None	Lovesick	pop rap	2020	https://p.scdn.co/mp3-preview/b8b8a7540be3e74d295f469ee773cf15f1987c7d
+191	album	Future Nostalgia	Dua Lipa	None	Future Nostalgia	dance pop	2020	https://p.scdn.co/mp3-preview/3a6c52b19be10e310d3d06c1fd832c2904f320f7
+192	album	Instant Gratification	Dance Gavin Dance	None	Death Of A Strawberry	pop punk	2015	https://p.scdn.co/mp3-preview/a3bab2c85a055518ed1ab8d2229dcac175e24329
+193	album	Future Nostalgia	Dua Lipa	None	Pretty Please	dance pop	2020	https://p.scdn.co/mp3-preview/ba8c271318b692e780a0a2799202b18e1cbf4e1e
+194	album	Future Nostalgia	Dua Lipa	None	Levitating	dance pop	2020	https://p.scdn.co/mp3-preview/15e65d052d726b0b7dd4bbff82a02a0537e3995b
+195	single	Oil in Water	I The Mighty	None	The Hound and the Fox	pop punk	2016	https://p.scdn.co/mp3-preview/7f847a5dabc17a2aace82ce3433adbc601bf8811
+196	album	Melodie	Cro	None	Traum	pop rap	2014	https://p.scdn.co/mp3-preview/0c6dd36b869af139baea4b201d9c2b68054d4eb7
+197	single	Hey Ya	Sleep Token	None	Hey Ya	proggressive metal	2018	https://p.scdn.co/mp3-preview/89446ec3778d2544bdb42c488f66bca7b1daee37
+198	album	Artificial Void	Unprocessed	None	Abandoned	djent	2019	https://p.scdn.co/mp3-preview/2f2327f321da76eede34fab5363fd4d0c1acb442
+199	album	Silent Machine	Twelve Foot Ninja	None	Coming For You	djent	2012	https://p.scdn.co/mp3-preview/490797e0514e7c24f2338fc66b044d78bf7521d8
+200	album	Sempiternal (Deluxe Edition)	Bring Me The Horizon	None	Can You Feel My Heart	metalcore	2013	https://p.scdn.co/mp3-preview/0ca9050333b05b2137989769cde51e23a5888f1d
+201	album	Waking The Fallen	Avenged Sevenfold	None	Unholy Confessions	nu metal	2003	https://p.scdn.co/mp3-preview/c66045cf9b6427ea6c4b50ab6494b3e58d286e58
+202	album	Disgusting	Beartooth	None	In Between	post-screamo	2014	https://p.scdn.co/mp3-preview/3e2047c37452ef20a7011549685653718a6d062c
+203	album	Atlas	Parkway Drive	None	Wild Eyes	nu metal	2012	https://p.scdn.co/mp3-preview/e63650da75adb6ad249925a2b6314c451e27fd39
+204	album	Lost Forever \\ Lost Together	Architects	None	Broken Cross	metalcore	2014	https://p.scdn.co/mp3-preview/c2755949ec659e9f9d56a07064558dfe9ae5b963
+205	album	TIM	Avicii	Aloe Blacc	SOS	dance pop	2019	https://p.scdn.co/mp3-preview/fdcb81c8cf0f14c5d0f4478511bd8d7356e19723
+206	album	Fire Within	Birdy	None	Skinny Love	pop	2013	https://p.scdn.co/mp3-preview/fa2ee949327d85e7bd22385f00737744ebf87d60
+207	album	Still Alive	Prison	None	You and Me and the Devil	metallic hardcore	2019	https://p.scdn.co/mp3-preview/f9fde48416c4ae1e29f807714fbb19919cada754
+208	album	Music To Be Murdered By	Eminem	KXNG Crooked, Royce Da 5'9", Joell Ortiz	I Will	hip hop	2020	https://p.scdn.co/mp3-preview/e2edf4bba2042fa1c47c18a29c83e27c39e23d42
+209	album	Music To Be Murdered By	Eminem	None	Little Engine	rap	2020	https://p.scdn.co/mp3-preview/cc9c59c117bf58d031b0b8aceccb095cbde0ce8f
+210	album	Mansion	NF	Fleurie	Mansion	rap	2015	https://p.scdn.co/mp3-preview/98c730b0a254315d18203967f4a329da4cd006d2
+211	album	The Search	NF	None	Trauma	rap	2019	https://p.scdn.co/mp3-preview/bbcb2aa9d3edbf27f83a672aa2e2d131b29a9923
+212	album	Music To Be Murdered By	Eminem	None	Never Love Again	rap	2020	https://p.scdn.co/mp3-preview/8687666afe612a3b0a48c2b11e6bdcc6b053e19b
+213	album	I	Jason Richardson	Spencer Sotelo	Retrograde	djent	2016	https://p.scdn.co/mp3-preview/e560ba34276e7ec79da4e03222053d2fc31cf0ac
+214	album	Applause Of A Distant Crowd	VOLA	None	Alien Shivers	djent	2018	https://p.scdn.co/mp3-preview/008577675d14c101de231bab237e60889b45a01c
+215	album	The Last One	Circles	None	Dream Sequence	djent	2018	https://p.scdn.co/mp3-preview/756a0c7412dca18113acee113749bc14044db4ad
+216	single	Jaws	Sleep Token	None	Jaws	proggressive metal	2018	https://p.scdn.co/mp3-preview/6a2fec52e27a145769978c926b572a406aacbb7b
+217	album	Illuminate	Anup Sastry	Andy Cizek	Where I Belong	djent	2019	https://p.scdn.co/mp3-preview/72bf81a3d63e2f2bc32026ee1e06253613ba4dba
+218	album	We Will All Be Gone	Good Tiger	None	The Devil Thinks I'm Sinking	djent	2018	https://p.scdn.co/mp3-preview/4b25187e3ef6db1e759b6f140354520b5cebc5bf
+219	single	Tendinitis	Jason Richardson	None	Tendinitis	djent	2018	https://p.scdn.co/mp3-preview/bb8ec2abfc479c00670f4fca87533deec7a44521
+220	album	Outlier	Twelve Foot Ninja	None	One Hand Killing	djent	2016	https://p.scdn.co/mp3-preview/915813f23d134d8d6de024bacb5d88147daa346e
+221	single	Blessed Be	Spiritbox	None	Blessed Be	djent	2020	https://p.scdn.co/mp3-preview/07b6272bc567bbaab8e3cd119d4d355634e5c37c
+222	single	Fu	Sordid Pink	None	Fu	None	2020	https://p.scdn.co/mp3-preview/e0efbb775e0434eb8f7af5a23c6834e08e810346
+223	album	Lun	Destiny Potato	None	Addict	djent	2014	https://p.scdn.co/mp3-preview/8eb60356d20895347e780698c3a5c23485bd5e33
+224	album	False Idol	Veil Of Maya	None	Pool Spray	djent	2017	https://p.scdn.co/mp3-preview/b5626681dfe1befa1c516e3ef2387a464baf9582
+225	album	Endless Summer	The Midnight	Nikki Flores	Jason	popwave	2016	https://p.scdn.co/mp3-preview/cde387e165b2ad877c025060f9571dce0b392b7b
+226	album	Light Grenades	Incubus	None	Anna Molly	pop rock	2006	https://p.scdn.co/mp3-preview/33d74c2192b196c68b8e1750a92f9b4b4cd2b83b
+227	single	Exile	Elwood Stray	None	Exile	metalcore	2019	https://p.scdn.co/mp3-preview/9a9d018383132e09e907f00d604da9ca9ea358d8
+228	album	Bayside	Bayside	None	Devotion And Desire	pop punk	2005	https://p.scdn.co/mp3-preview/b3ade34720b3f2ba57956147cb34a45be01a8716
+229	album	End of an Empire (Deluxe Edition)	Celldweller	None	Heart On	nu metal	2015	https://p.scdn.co/mp3-preview/cd454970fd166fa18dcce547a623642857a23f2f
+230	album	No Sleep	Volumes	None	Erased	djent	2016	https://p.scdn.co/mp3-preview/3bb5ddfa7451a99a467960f206dec3160437d648
+231	single	Future Nostalgia	Dua Lipa	None	Future Nostalgia	dance pop	2019	https://p.scdn.co/mp3-preview/64247f219b56d8a139de93a33f5ed5e94e9fd8ec
+232	single	Don't Start Now	Dua Lipa	None	Don't Start Now	dance pop	2019	https://p.scdn.co/mp3-preview/ed151225213380a41e5c4af00ff558e25b5875d1
+233	single	Checklist	MAX	Chromeo	Checklist	dance pop	2019	https://p.scdn.co/mp3-preview/dec49eed0e2a9d995ba909d9d6ec742502db8d89
+234	album	Rare	Selena Gomez	None	Dance Again	dance pop	2020	https://p.scdn.co/mp3-preview/de1c50ad89702316464300151054d56f3ae9456e
+235	album	Built On Glass	Chet Faker	None	Talk Is Cheap	indietronica	2014	https://p.scdn.co/mp3-preview/ea19a190da309c5aa47391a4ae71f163d66537a0
+236	album	Bad Dreams	Swollen Members	Moka Only	Fuel Injected	rap rock	2009	https://p.scdn.co/mp3-preview/375b4a44d53ace2c92dc1e88b0f64f6ec2146aa9
+237	album	iii	Miike Snow	None	Genghis Khan	indie pop	2016	https://p.scdn.co/mp3-preview/ce196a6b88f1c9fcb6bf01b89186508cfca6a75f
+238	album	How To Be A Human Being	Glass Animals	None	The Other Side Of Paradise	modern rock	2016	https://p.scdn.co/mp3-preview/0f8fa9b44a2bd1ab87055fc9112f0b5fbadac819
+239	album	Dance And Cry	Mother Mother	None	It's Alright	indie pop	2018	https://p.scdn.co/mp3-preview/c6dae31df6fdb50ff5491f11a7b23f1c8372ed1e
+240	single	Never Let You Go	RAC	Matthew Koma, Hilary Duff	Never Let You Go	indie pop	2020	https://p.scdn.co/mp3-preview/d2047eb045fa525d0b5c0ddfbeb8dcee7bcd9616
+241	album	No Culture (Deluxe)	Mother Mother	None	Worry	indie pop	2017	https://p.scdn.co/mp3-preview/3e8beac83746931c90a11c1e232cf1599556d75a
+242	album	O My Heart	Mother Mother	None	Ghosting	indie pop	2008	https://p.scdn.co/mp3-preview/519e8b6596616ca370b6d25a3a9a5fccb1876e38
+243	album	Moving Walls	Matthew Good	None	Selling You My Heart	canadian indie	2020	https://p.scdn.co/mp3-preview/4d752fe705d2f47a2cd0c0618d9948a7d2609d34
+244	album	The Spell	Cellar Darling	None	The Spell	folk metal	2019	https://p.scdn.co/mp3-preview/c7117d81cea13ea6627fdd552dab3f354642d891
+245	album	Dead Trees	From First To Last	None	I Don't Wanna Live In The Real World	pop punk	2015	https://p.scdn.co/mp3-preview/06e4cc87ee4413baefec5b2f52bbe756ef956fa5
+246	album	Dead Trees	From First To Last	None	2 11	pop punk	2015	https://p.scdn.co/mp3-preview/4955a0644c822967552fbab103905dfbaee0615e
+247	album	Thoma	Thoma	None	Moca	None	2017	https://p.scdn.co/mp3-preview/402424e1ed02dcc2f9641e8ea8e5efc4f582a9d6
+248	single	Degenerates	A Day To Remember	None	Degenerates	pop punk	2019	https://p.scdn.co/mp3-preview/6c137edb6ebe31af1fe00d053cc7b4588bc6178a
+249	album	Instant Gratification	Dance Gavin Dance	None	We Own The Night	pop punk	2015	https://p.scdn.co/mp3-preview/f7c8928f6ef1e80504f7e028481c66a43c3c0435
+250	album	Hyperreal	Makari	None	Transient	pop punk	2018	https://p.scdn.co/mp3-preview/3fd301ce5ac95cc101dec58e16c2044de76d80d0
+251	album	Beautiful Oblivion	Issues	None	Drink About It	pop punk	2019	https://p.scdn.co/mp3-preview/4214cd33f9c3a0cd3cf3937e82fc063aee5c1e2c
+252	album	Deleted Scenes From The Cutting Room Floor	Caro Emerald	None	A Night Like This	electro swing	2010	https://p.scdn.co/mp3-preview/beb74b31a9ddca640b093980ca9ef7bd5678a09c
+253	single	Resentment	Kesha	Sturgill Simpson, Brian Wilson, Wrabel	Resentment	dance pop	2019	https://p.scdn.co/mp3-preview/2340f5e1ce6a0c46d039a8c5dd53a20c6ac2ce09
+254	single	On A Roll (Remixes)	Ashley O	Junior Vasquez	On A Roll	None	2019	https://p.scdn.co/mp3-preview/677dc265c174fffb06129b25a2b5a74c9f8718e5
+255	album	This Album Does Not Exist	DREAMERS	None	Sweet Disaster	indie pop	2016	https://p.scdn.co/mp3-preview/0825aaeb6d7efbd32072df41b37d0a5f63b60ba2
+256	album	Days Are Gone	HAIM	None	The Wire	pop rock	2013	https://p.scdn.co/mp3-preview/478cc3176c98655885e16fa578cc77b04c20bdad
+257	album	One Long Dream	SonReal	None	Can I Get A Witness	pop rap	2016	https://p.scdn.co/mp3-preview/dfbec95bade895f3b6a6d884feb9a5f0a99ff724
+258	single	Not About Angels	Birdy	None	Not About Angels	pop	2014	https://p.scdn.co/mp3-preview/70de02a1b9bf21e9f34e3f4e0ad243ded4d0a543
+259	album	We Couldn't Think of a Title	Psychostick	None	Beer!	nu metal	2003	https://p.scdn.co/mp3-preview/61aa9569a94e6fae9697f3b670e227d331f3b3c5
+260	album	TRAUMA	I Prevail	None	Breaking Down	nu-metalcore	2019	https://p.scdn.co/mp3-preview/ffcb5b02c4f573ffa5dbe1d9c5071d92b68e58b8
+261	album	Significant Other	Limp Bizkit	None	Break Stuff	alternative metal	1999	https://p.scdn.co/mp3-preview/707e24b54ec566a155f0eab45360b8e07c66dec5
+262	single	Fett's Vette	MC Chris	None	Fett's Vette	comic	2001	https://p.scdn.co/mp3-preview/01be892007438dbd6b7f72ab93eb127bd995e9a8
+263	album	The College Dropout	Kanye West	None	School Spirit Skit 1	rap	2004	https://p.scdn.co/mp3-preview/03be6b2762bfba3b5645704a92fe034bb8a2bd5a
+264	album	RWBY, Vol. 1 (Music from the Rooster Teeth Series)	Jeff Williams	Casey Lee Williams, Sandy Casey	Red Like Roses - Part II	otacore	2013	https://p.scdn.co/mp3-preview/4cd981928413a36d4d0369ed7e1ed5ce66a991eb
+265	album	The Tweed Album	Mr.B The Gentleman Rhymer	None	Nicknackatory	comedy rap	2012	https://p.scdn.co/mp3-preview/87223beb342b63d8580fe5159783a99dd0ed3d52
+266	album	I Told You I Was Freaky	Flight of the Conchords	None	Hurt Feelings	comic rap	2009	https://p.scdn.co/mp3-preview/b3f82747c21d1587b6bc366061b8828b48d842c2
+267	compilation	Something Rotten! (Original Broadway Cast Recording)	Brian D'Arcy James	John Cariani, 'Something Rotten' Male Ensemble	God, I Hate Shakespeare	broadway	2015	https://p.scdn.co/mp3-preview/90705e7287cab39dd7278d77a669d355a48105e2
+268	album	Severe Tire Damage	They Might Be Giants	None	Doctor Worm	alternative rock	1998	https://p.scdn.co/mp3-preview/e92f027a0bd3abdc40db645c42b2ff1af2af0588
+269	album	Words Words Words	Bo Burnham	None	OH BO	comedy	2010	https://p.scdn.co/mp3-preview/70ebccf82cbc9a7352662973cf6f3d57e022be35
+270	album	Words Words Words	Bo Burnham	None	RANT	comedy	2010	https://p.scdn.co/mp3-preview/b5e0e579474212f52581acb6559226fa64ef285a
+271	album	Portal 2: Songs to Test By (Collectors Edition)	Aperture Science Psychoacoustic Laboratories	None	Still Alive	video game music	2011	https://p.scdn.co/mp3-preview/7c1d08640e50ec2e7c24b383a9cfcd198b7b33db
+272	album	The Life and Times of Mike Fanning	Da Vinci's Notebook	None	Kingdom In the Sky	a cappella	2000	https://p.scdn.co/mp3-preview/d6e3c3b01c50b73ef832dc9aff42092ee661476c
+273	album	You're Awful, I Love You	Ludo	None	Love Me Dead	tulsa indie	2007	https://p.scdn.co/mp3-preview/9fa25bb619c4638800636767525e8d451076fdca
+274	album	Artificial Selection	Dance Gavin Dance	None	Midnight Crusade	pop punk	2018	https://p.scdn.co/mp3-preview/3f803cc6d7e5612613bc53be4580cdf8a903efb8
+275	album	The Strange Case of...	Halestorm	None	You Call Me a Bitch Like It's a Bad Thing	alternative metal	2012	https://p.scdn.co/mp3-preview/726c05bda52b5c59190225f409b42db4036a43f1
+276	album	Black Widow	In This Moment	None	Sex Metal Barbie	alternative metal	2014	https://p.scdn.co/mp3-preview/480bf28caadf435aea65fdeb02ad43c42b887bdf
+277	album	Slipknot (10th Anniversary Edition)	Slipknot	None	No Life	nu metal	2009	https://p.scdn.co/mp3-preview/43ed171e654b24101887525f9fbd31dcbc6e9699
+278	album	Sound Awake	Karnivool	None	Set Fire to the Hive	djent	2010	https://p.scdn.co/mp3-preview/6038c25c83a6ab6d98c3f158cedd612608ddb595
+279	album	Fear Inoculum	TOOL	None	7empest	progressive metal	2019	https://p.scdn.co/mp3-preview/313b8769b6ee0622c8027559008eb25e86e4394a
+280	album	Delta	Mumford & Sons	None	Woman	modern folk rock	2018	https://p.scdn.co/mp3-preview/2fb6f2dfdd7376be1935e5ad03084d0a232e91c3
+281	single	Fish in a Gun Barrel	NOFX	None	Fish in a Gun Barrel	punk	2019	https://p.scdn.co/mp3-preview/9697ed635046a725813089905dbf8766919946a7
+282	album	13 Reasons Why (Season 3)	5 Seconds of Summer	None	Teeth	pop	2019	https://p.scdn.co/mp3-preview/6a447204bb7c43f656c29552bfff9596eab37a02
+283	album	Cuz I Love You	Lizzo	None	Soulmate	pop rap	2019	https://p.scdn.co/mp3-preview/467bc6a734bfb66e77f069ed62c40598c057c083
+284	single	Love Me Less	MAX	Quinn XCII	Love Me Less	pop rap	2019	https://p.scdn.co/mp3-preview/62452b94cb148f412fc34bd965a5a13ea42970f7
+285	single	Easier – Remix	5 Seconds of Summer	Charlie Puth	Easier – Remix	pop	2019	https://p.scdn.co/mp3-preview/a106c1d06e5af890985dd41e48f31a1e5428a3da
+286	single	Supersonics	Caravan Palace	None	Supersonics	electro swing	2019	https://p.scdn.co/mp3-preview/4dfb04828a270c66918946358035a5ebf70f03b0
+287	album	Punk Goes Pop, Vol. 7	Seaway	None	Closer	pop punk	2017	https://p.scdn.co/mp3-preview/1ae1dcf68fc9ea34b9de0f2b1187a5935c0ffd8b
+288	album	Juggernaut: Alpha	Periphery	None	22 Faces	djent	2015	https://p.scdn.co/mp3-preview/50e8f31c08fac4eb2a67084eb30e4244793de280
+289	album	Juggernaut: Alpha	Periphery	None	Alpha	djent	2015	https://p.scdn.co/mp3-preview/3806410721e69692d30f120d4c4e0d2bb29e00dc
+290	album	Juggernaut: Alpha	Periphery	None	Heavy Heart	djent	2015	https://p.scdn.co/mp3-preview/5585435ea6563090413069e79e4dfc38e967e916
+291	album	Juggernaut: Omega	Periphery	None	Omega	djent	2015	https://p.scdn.co/mp3-preview/6f733fe1dccccdce0fecc346d22768201c063898
+292	album	Periphery III: Select Difficulty	Periphery	None	Catch Fire	djent	2016	https://p.scdn.co/mp3-preview/31f172945cfe36983fa9444e3146a2ebe6f8b2f0
+293	album	Periphery III: Select Difficulty	Periphery	None	Flatline	djent	2016	https://p.scdn.co/mp3-preview/fba6153790cee6149e627dbc4d81ada768f8e8aa
+294	album	Periphery III: Select Difficulty	Periphery	None	The Price Is Wrong	djent	2016	https://p.scdn.co/mp3-preview/8df772378c9defc0e0179cf88b6bf9a6771b4397
+295	album	Periphery IV: HAIL STAN	Periphery	None	Reptile	djent	2019	https://p.scdn.co/mp3-preview/ad70c81531531a3496270828b18db2a5b474375b
+296	album	Periphery IV: HAIL STAN	Periphery	None	Satellites	djent	2019	https://p.scdn.co/mp3-preview/45483c63abb2f636401d4674fd5eeb81fb11ae3e
+297	album	Periphery IV: HAIL STAN	Periphery	None	It's Only Smiles	djent	2019	https://p.scdn.co/mp3-preview/ab327c72d7e2dac34cb74057035ff8592952b597
+298	album	In Cauda Venenum (Swedish Version)	Opeth	None	Hjartat vet vad handen gor	progressive metal	2019	https://p.scdn.co/mp3-preview/397bb595af94b3edf10c0cdf692d4f7c2fe69cba
+299	album	31 Minutes to Takeoff	Mike Posner	Gigamesh	Cooler Than Me - Single Mix	dance pop	2010	https://p.scdn.co/mp3-preview/d78dacc5ceea4c08aca454b4eb4bd3b1c895799d
+300	album	Fear Inoculum	TOOL	None	Fear Inoculum	progressive metal	2019	https://p.scdn.co/mp3-preview/4b0bc0c5cfd0f222cc3a5f224bb07ea4224a43f5
+301	album	Good Charlotte	Good Charlotte	None	WaldorfWorldwide	pop punk	2001	https://p.scdn.co/mp3-preview/7a8462ffaa0ea920abfe06930a1225e16d4471fb
+302	album	Back To Black	Amy Winehouse	None	Rehab	british soul	2006	https://p.scdn.co/mp3-preview/9daf742d5111474d21013d9e8753db4af442949f
+303	album	A Fever You Can't Sweat Out	Panic! At The Disco	None	I Write Sins Not Tragedies	pop punk	2005	https://p.scdn.co/mp3-preview/556f250ec0047b8449f920fd62f401ea77624c18
+304	single	Boomerang	Jidenna	None	Decibels	ghanaian hip hop	2017	https://p.scdn.co/mp3-preview/b82ca0d7d0b6ce970cb9da15623c7b68ac56969f
+305	album	Unleashed	Kayzo	shYbeast, FRANK ZUMMO	Cruel Love	edm	2019	https://p.scdn.co/mp3-preview/6577b0691b0745b03c4becfa96e00cbb1b0f5812
+306	album	Cuz I Love You (Deluxe)	Lizzo	None	Truth Hurts	pop rap	2019	https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263
+307	album	Kiddo	Jessie Reyez	None	Great One	pop	2017	https://p.scdn.co/mp3-preview/3e2b62e87f8793e250b8f57744ad24a48f00e556
+308	album	Double Dare	Waterparks	None	Stupid for You	pop punk	2016	https://p.scdn.co/mp3-preview/592ce72991fcdf807d81da015816e7a7101cb2c2
+309	single	More Souls	Kalipzo	Another Mexican Dude	More Souls	None	2019	https://p.scdn.co/mp3-preview/eea9cbc4a37850c049d06cee5d521d2e51c87508
+310	album	Haus Party, Pt. 1	Todrick Hall	None	Nails, Hair, Hips, Heels	dance pop	2019	https://p.scdn.co/mp3-preview/0fed39af691468fa396ce3a7335b565847792f73
+311	album	In Color	Cheap Trick	None	I Want You to Want Me	classic rock	1977	https://p.scdn.co/mp3-preview/1c55371ac6dc7f4553e0f0ce75edf9b84d263ef1
+312	album	Shake Your Money Maker	The Black Crowes	None	Hard To Handle	alternative rock	1990	https://p.scdn.co/mp3-preview/e63371f5e96019ae8e91714c9da6972950709320
+313	single	One, Two	((( O )))	None	One, Two	indie soul	2019	https://p.scdn.co/mp3-preview/1cdd262e8146b721480422a299b3bbce2ed93a91
+314	single	The Search	NF	None	The Search	rap	2019	https://p.scdn.co/mp3-preview/0714614da7873b547db841cd8380e99429d43208
+315	single	Cold	Bloom	None	Cold	pop punk	2019	https://p.scdn.co/mp3-preview/9a7fd5102995e8321871acbd62692dca5a901723
+316	single	WHY	NF	None	WHY	rap	2018	https://p.scdn.co/mp3-preview/223e9a1e873f7a5869987144deae5e40c59cf9d1
+317	single	Apologize	grandson	None	Apologize	modern alternative rock	2019	https://p.scdn.co/mp3-preview/c8be01fffb5f7e384b927d07acf6264688af72e5
+318	album	You Can't Stop The Bum Rush	LEN	None	Steal My Sunshine	None	1999	https://p.scdn.co/mp3-preview/b7084abce98a790b833d0bb6691aed056101bf68
+319	single	Lost Boy	Ruth B.	None	Lost Boy	pop	2015	https://p.scdn.co/mp3-preview/b8ad63b61e2af502b7a1bf4cff24c0d47b8d1674
+320	album	How To Save A Life	The Fray	None	How to Save a Life	pop rock	2005	https://p.scdn.co/mp3-preview/c808e35b385571cbda7ccf893c9c568b83a0390d
+321	album	Merriweather Post Pavilion	Animal Collective	None	In The Flowers	alternative rock	2009	https://p.scdn.co/mp3-preview/1ca7501fc66e0a05f42e3c1e7d027f630852c0cb
+322	single	7 Rings	Our Last Night	Derek DiScanio	7 Rings	pop punk	2019	https://p.scdn.co/mp3-preview/f8fb5d226920a4e3b4bf8c31e3e876e82e1768de
+323	single	Strange Love	Simple Creatures	None	Adrenaline	pop punk	2019	https://p.scdn.co/mp3-preview/0f803f1f2499ae464c6f20d2e2c3e8d6e7dff1be
+324	single	Look But Don't Touch	Polyphia	Lewis Grant	Look But Don't Touch	instrumental rock	2019	https://p.scdn.co/mp3-preview/b678904bf83b4e793dadaff04eeb9b04e4be3fbb
+325	album	Is a Real Boy	Say Anything	None	An Orgy of Critics	pop punk	2005	https://p.scdn.co/mp3-preview/139dc65c4546f37fc36419ceca831ea7933c01b7
+326	album	The Question	Emery	None	Playing With Fire	pop punk	2005	https://p.scdn.co/mp3-preview/5f268d52323ddc82cc4e07ad41424e953215e680
+327	single	Mileage	HAWK	None	Mileage	american metalcore	2019	https://p.scdn.co/mp3-preview/14fa57bf809ad31816a993870c15be5bb64bd3a7
+328	single	A Star Is Born Medley: Shallow \ Always Remember Us This Way	Anthem Lights	None	A Star Is Born Medley: Shallow \ Always Remember Us This Way	mash up	2019	https://p.scdn.co/mp3-preview/7201d26cf68cd48fd63ed99ad3a245f64222f610
+329	single	Crucial Moments	The Bouncing Souls	None	Home	pop punk	2019	https://p.scdn.co/mp3-preview/7c3ac52ce2d843b30fbfef709de8a058c300dd04
+330	album	Ategnatos	Eluveitie	None	Ambiramus	folk metal	2019	https://p.scdn.co/mp3-preview/b9dd66a918dd66499e691b8cc851bdebde5d5743
+331	single	Code Breaker (Smile)	Carousel Kings	None	Code Breaker (Smile)	pop punk	2019	https://p.scdn.co/mp3-preview/fd4b21c5fc3c80d2b73017c091b34e1c37339320
+332	single	Head Hunter	Dance Gavin Dance	None	Head Hunter	pop punk	2019	https://p.scdn.co/mp3-preview/0c81930574319ac93040ea6781f6c162ca0a84a3
+333	album	Periphery IV: HAIL STAN	Periphery	None	Garden in the Bones	djent	2019	https://p.scdn.co/mp3-preview/220888e71955c29d7bc0a5a9624313cee111e0ef
+334	single	MMMMMHMMMMM b\w Please Go	Four Fists	None	MMMMMHMMMMM	abstract hip hop	2013	https://p.scdn.co/mp3-preview/3ba83a6a2375e2c8856b8529da94bcd2f3347860
+335	single	MMMMMHMMMMM b\w Please Go	Four Fists	None	Please Go	abstract hip hop	2013	https://p.scdn.co/mp3-preview/124c2b707c18bdd33427288c63b69a4295c1953c
+336	album	Touch Up	Mother Mother	None	Polynesia	indie pop	2007	https://p.scdn.co/mp3-preview/e9b58ad371e2dd599dbdedaa8db46430ca281983
+337	album	XO	Elliott Smith	None	Waltz #2 (XO)	alternative rock	1998	https://p.scdn.co/mp3-preview/a80e5aa0917ec948fc9a075afa11251578bce86b
+338	album	Either\Or	Elliott Smith	None	Between the Bars	alternative rock	1997	https://p.scdn.co/mp3-preview/c3b9e2d16970ddb644bc1b5e13ef8af35f7125d5
+339	album	How to: Friend, Love, Freefall	Rainbow Kitten Surprise	None	Fever Pitch	indie folk	2018	https://p.scdn.co/mp3-preview/aff7ef16e74f15017385e02f19b24079d1a6d360
+340	single	Cream Soda	Rare Candy	None	Summer Shandy	chicago pop punk	2017	https://p.scdn.co/mp3-preview/bd0489826d2f0b52d5a8ae47239e9d6d8902fbc9
+341	single	Make War	From First To Last	None	Make War	pop punk	2017	https://p.scdn.co/mp3-preview/5ca5a685bb37844218d2798416b4934fe300dc62
+342	single	If You See Her, Tell Her I'm over It	Rare Candy	None	If You See Her, Tell Her I'm over It	pop punk	2018	https://p.scdn.co/mp3-preview/361719409257a176c8633f5d6cdacf0a5331d45d
+343	album	Everything That Is You	Thrailkill	None	Aware	progressive metal	2018	https://p.scdn.co/mp3-preview/aba43651b0007f9d4108b3b1d65103bb0e755c96
+344	single	Lotus	Soen	None	Lotus	progressive metal	2019	https://p.scdn.co/mp3-preview/928e8681db870d2b459011c7635b34a3768c0851
+345	single	Learning to Fly	William Fitzsimmons	None	Learning to Fly	indie folk	2018	https://p.scdn.co/mp3-preview/ca53345a8c46e7bf21e526be0faf41e77d469df2
+346	album	Just for Us	Francis and the Lights	None	Just for Us	alternative r&b	2017	https://p.scdn.co/mp3-preview/ec860d1035d4ff5065757d24f7e625bf64e6eb36
+347	single	Drew Barrymore	Bryce Vine	None	Drew Barrymore	pop	2017	https://p.scdn.co/mp3-preview/5dd333e7d41aa0213aebd0643c7cd1eee2b71174
+348	single	Surrender	From First To Last	None	Surrender	pop punk	2018	https://p.scdn.co/mp3-preview/a1086e34d9b5808b8b2ab13d28273e77cbfdc65f
+349	album	Secretions	Garfunkel and Oates	None	I Get to Do It With You	comic	2015	https://p.scdn.co/mp3-preview/8d01528e30273b281c75706f96003eaea0a41c38
+350	album	Kid A	Radiohead	None	Everything In Its Right Place	alternative rock	2000	https://p.scdn.co/mp3-preview/54f1a88d16e6a4be7f82fccc62f8047652686b16
+351	album	At What Cost	GoldLink	Hare Squead	Herside Story	hip hop	2017	https://p.scdn.co/mp3-preview/dedafbcffbbc4f435f87f1515b7932960cd7278f
+352	album	Victory Lap (Deluxe Edition)	Propagandhi	None	Cop Just Out of Frame	punk	2017	https://p.scdn.co/mp3-preview/736a2c869ef0043c2301489f184872786556878e
+353	album	Origins (Deluxe)	Imagine Dragons	None	Only	modern rock	2018	https://p.scdn.co/mp3-preview/c8d4eb0a015d7b78851ed4222df73a41f38e5beb
+354	album	The Used	The Used	None	Buried Myself Alive	pop punk	2002	https://p.scdn.co/mp3-preview/989ec6e2de49d73617a3f617e1b570947f84b2cb
+355	album	See Without Eyes (Deluxe)	The Glitch Mob	Rituals of Mine	Enter Formless	edm	2018	https://p.scdn.co/mp3-preview/76bbbdfc7507f63ea41ee538e57f3375eb83b068
+356	album	Tell Me You Love Me (Deluxe)	Demi Lovato	None	Sorry Not Sorry	pop	2017	https://p.scdn.co/mp3-preview/4b32ff10f00af6a41a9073aa55de37fed8620939
+357	album	Malina	Leprous	None	From the Flame	djent	2017	https://p.scdn.co/mp3-preview/3584dfb99c809945a0c76decf5a785b4c17ca178
+358	album	Scorpion Side B (Covers)	Lights	None	That's How You Feel	pop	2018	None
+359	album	Sonder	TesseracT	None	King	djent	2018	https://p.scdn.co/mp3-preview/3fea3631dd6f6ace8d0e0f1b71c07673cd7e203e
+360	album	More Than You Know	Axwell \\ Ingrosso	None	How Do You Feel Right Now	dance pop	2017	https://p.scdn.co/mp3-preview/424e7a1a8ac08e447caa946632150d32d5638a4a
+361	single	Eastside	benny blanco	Halsey, Khalid	Eastside	pop rap	2018	https://p.scdn.co/mp3-preview/a6da747d6c1b8e0955493faae2e6721b4a389d36
+362	album	Under the Fragmented Sky	Lunatic Soul	None	Untamed	progressive metal	2018	https://p.scdn.co/mp3-preview/3d9e0796f07f03c15d177709de7f14f810d565a2
+363	album	American Idiot	Green Day	None	Jesus of Suburbia	pop punk	2004	https://p.scdn.co/mp3-preview/ec083b4edfdd1a4cbfb642b231d797e67ceaf69f
+364	album	Weezer (Green Album)	Weezer	None	Island In The Sun	pop rock	2001	https://p.scdn.co/mp3-preview/466f86cec2ab7d9248f93fab9221511cacc88c31
+365	album	Bionic (Deluxe Version)	Christina Aguilera	None	Bionic	pop	2010	https://p.scdn.co/mp3-preview/dd134c5385dea09758957d8aef0ab072f12a5e92
+366	album	Bionic	Christina Aguilera	Nicki Minaj	Woohoo	pop	2010	https://p.scdn.co/mp3-preview/5a930e58ec3b47e8f3770ce278c10fe999bdf946
+367	album	Bionic (Deluxe Version)	Christina Aguilera	None	Glam	pop	2010	https://p.scdn.co/mp3-preview/33a28ebd49fcab7f4087f83344e3ff69cfcf48c1
+368	album	Bionic (Deluxe Version)	Christina Aguilera	None	Prima Donna	pop	2010	https://p.scdn.co/mp3-preview/048bf03e08a378789baac621674d43ffe9bcc2d3
+369	album	Bionic (Deluxe Version)	Christina Aguilera	None	Sex for Breakfast	pop	2010	https://p.scdn.co/mp3-preview/90afdd7eba4168db54529de5d9892043e9ed9965
+370	album	Bionic (Deluxe Version)	Christina Aguilera	None	Vanity	pop	2010	https://p.scdn.co/mp3-preview/a71d5d436afa6b214bf628acd1ba445327238122
+371	album	Bionic (Deluxe Version)	Christina Aguilera	None	Monday Morning	pop	2010	https://p.scdn.co/mp3-preview/a51b283faefdd10a50253a4b33a2d8750a844c8b
+372	album	Bionic (Deluxe Version)	Christina Aguilera	None	Bobblehead	pop	2010	https://p.scdn.co/mp3-preview/116dcf029bb3c963afcf9d394283466f002c03bf
+373	album	Bionic (Deluxe Version)	Christina Aguilera	None	I Am (Stripped)	pop	2010	https://p.scdn.co/mp3-preview/aa874a07b4ca8b55ee3a397bc5f5d28f486d16f2
+374	single	Causa	Vitalism	None	Pagan	djent	2015	https://p.scdn.co/mp3-preview/eef514a469ccc323b701479d02a080b940d69152
+375	single	Medicine	USS (Ubiquitous Synergy Seeker)	None	Medicine	modern rock	2018	https://p.scdn.co/mp3-preview/6f8b2a39b6cc4b5b84afc8d21e3e98eea2cf0cbe
+376	album	Next Season	Felix Cartal	None	Get What You Give	edm	2018	https://p.scdn.co/mp3-preview/e35d23f2aa4f56565a9356b7b6573b14d5acb433
+377	album	Advanced Basics	USS (Ubiquitous Synergy Seeker)	None	Yin Yang	modern rock	2014	https://p.scdn.co/mp3-preview/7e1717a494517e15190e21c0ba25252a86963d93
+378	single	EP (2011 Re-Release)	Childish Gambino	None	Lights Turned On	rap	2018	https://p.scdn.co/mp3-preview/97da140217cefcaa5ac45ac62f56e6544ca4fb3e
+379	single	EP (2011 Re-Release)	Childish Gambino	None	Freaks And Geeks	rap	2018	https://p.scdn.co/mp3-preview/7a73f147c30affd3450fe84feffe74f9362e9005
+380	single	Are You Ready? (Acoustic)	Prides	None	Are You Ready? - Acoustic	indie anthem-folk	2016	https://p.scdn.co/mp3-preview/e1f2eea5fa44469ebf48c707478faa266f4f9c7e
+381	single	The Pressure (Acoustic)	Ryan Corn	None	The Pressure - Acoustic	None	2017	https://p.scdn.co/mp3-preview/d858a2538cd00a90e9ad140fdd161c786e940448
+382	single	Once In a While (Acoustic)	Timeflies	None	Once In a While - Acoustic	pop	2016	https://p.scdn.co/mp3-preview/9c6971e6dc0316dd313fd83b63c769f1d8a5f578
+383	single	Most Girls (Acoustic)	Hailee Steinfeld	None	Most Girls - Acoustic	pop	2017	https://p.scdn.co/mp3-preview/9a43ce877833f6ae433cc1560b0f4fee5fab6889
+384	single	New Rules (Acoustic)	Dua Lipa	None	New Rules - Acoustic	pop	2017	https://p.scdn.co/mp3-preview/bbc564cb9809511fb6c1dfb384d10b63500afc2c
+385	single	Cringe (Stripped)	Matt Maeson	None	Cringe - Stripped	modern rock	2017	https://p.scdn.co/mp3-preview/7f756714ba68917604e06c1ee8deffaf768138e3
+386	album	Raised Under Grey Skies (Deluxe)	JP Cooper	None	September Song - Guitar Acoustic	pop rock	2017	https://p.scdn.co/mp3-preview/23a67efc1b5a31c45beee941d8bbbebd9c2bfe4d
+387	album	Chapters	James TW	None	Say Love	pop	2019	https://p.scdn.co/mp3-preview/19f2079fac5636f2236424ecd0a418a0631b9bf9
+388	single	Fall In Line	Christina Aguilera	Demi Lovato	Fall In Line	pop	2018	https://p.scdn.co/mp3-preview/f656fc172aa37e6cb6284150ec74ec419da28819
+389	album	Yankee Hotel Foxtrot	Wilco	None	Jesus, Etc.	indie rock	2002	https://p.scdn.co/mp3-preview/f0be3e4391b1c65468aa9deb6fd506396ab9fed3
+390	single	Read U Wrote U (Ellis Miah Mix)	RuPaul	The Cast of RuPaul's Drag Race All Stars, Season 2	Read U Wrote U (Ellis Miah Mix)	dance pop	2016	https://p.scdn.co/mp3-preview/3267919784f19282ba0f50613e75c778c314acbe
+391	single	When I Was Young - EP	MO	None	When I Was Young	pop	2017	https://p.scdn.co/mp3-preview/daf22f5453019f91f1fe50bbe907b813a49ec11c
+392	album	Voicenotes	Charlie Puth	Kehlani	Done for Me	pop	2018	https://p.scdn.co/mp3-preview/cb26531c559b909f8cb191ecfe34b49c6efad139
+393	album	Babel (Deluxe Version)	Mumford & Sons	None	Babel	modern rock	2012	https://p.scdn.co/mp3-preview/221797f5a42d553ff7f5950e0ce05f037eea09b8
+394	album	Babel (Deluxe Version)	Mumford & Sons	None	I Will Wait	modern rock	2012	https://p.scdn.co/mp3-preview/261bf70d28822ddc6c13d9afc91bf943d7c5229c
+395	album	Babel (Deluxe Version)	Mumford & Sons	None	Holland Road	modern rock	2012	https://p.scdn.co/mp3-preview/ad386f4b3ae3b0fd1e56d344381a648efbcef14e
+396	album	Babel (Deluxe Version)	Mumford & Sons	None	Ghosts That We Knew	modern rock	2012	https://p.scdn.co/mp3-preview/583b9d8e7e6b3e955e4250fb400ae40fc90bbd4e
+397	album	Babel (Deluxe Version)	Mumford & Sons	None	Reminder	modern rock	2012	https://p.scdn.co/mp3-preview/c0fa93334b96dcfde0c172085a58b399c6750f81
+398	album	Babel (Deluxe Version)	Mumford & Sons	None	Not with Haste	modern rock	2012	https://p.scdn.co/mp3-preview/be785d7117f12350b622736ec796218e3e1211d9
+399	album	Babel (Deluxe Version)	Mumford & Sons	None	Where Are You Now	modern rock	2012	https://p.scdn.co/mp3-preview/36a4a4cff6ded72d0e0992e94804e1259a47b28d
+400	album	Babel (Deluxe Version)	Mumford & Sons	None	Whispers in the Dark	modern rock	2012	https://p.scdn.co/mp3-preview/e22907b20e03aac9433a93ea1244db30aaae4913
+401	album	Babel (Deluxe Version)	Mumford & Sons	None	Lover of the Light	modern rock	2012	https://p.scdn.co/mp3-preview/d4a07dcd199cc6d502772d5b9405bb49546aa6cd
+402	album	Babel (Deluxe Version)	Mumford & Sons	None	Lovers' Eyes	modern rock	2012	https://p.scdn.co/mp3-preview/967b5cde61852d53f7298d20a84142588feac819
+403	album	Babel (Deluxe Version)	Mumford & Sons	None	Hopeless Wanderer	modern rock	2012	https://p.scdn.co/mp3-preview/162b4c12f9c1eb1d8f8d3ec435bbbe10fd722664
+404	album	Babel (Deluxe Version)	Mumford & Sons	None	Broken Crown	modern rock	2012	https://p.scdn.co/mp3-preview/a8d8ba10311d10fcb65db261412cefecbeaf1327
+405	album	Babel (Deluxe Version)	Mumford & Sons	None	Below My Feet	modern rock	2012	https://p.scdn.co/mp3-preview/d3c22eb91e3fdce2074b2699b9bd7036372e29fa
+406	album	Babel (Deluxe Version)	Mumford & Sons	None	For Those Below	modern rock	2012	https://p.scdn.co/mp3-preview/81a9d55e1b1b189ee24a56ce90853303757c972b
+407	album	Traveler	Jerry Douglas	Paul Simon, Mumford & Sons	The Boxer	progressive bluegrass	2012	https://p.scdn.co/mp3-preview/542054c78ec1a7334e413c440af70fa1f96a688e
+408	single	Doves & Ravens	Dermot Kennedy	None	A closeness	pop	2017	https://p.scdn.co/mp3-preview/e61bbc03af1d8e8a735d9aba77a1ad7efe924616
+409	single	Powerless	Classified	None	Powerless	indie pop rap	2018	https://p.scdn.co/mp3-preview/8cb2d8dd303be218d67c3c266050ca940c81f985
+410	album	Wake Up Call	Theory of a Deadman	None	Straight Jacket	nu metal	2017	https://p.scdn.co/mp3-preview/70a5812b971861a71370c3b4a5ddd2eae716b3e7
+411	album	Out of the Vein	Third Eye Blind	None	Crystal Baller	alternative rock	2003	https://p.scdn.co/mp3-preview/9efede38c9a1f441ae0ba47edfe4f916d2bd0b04
+412	album	The Autumn Effect	10 Years	None	Wasteland	alternative metal	2005	https://p.scdn.co/mp3-preview/f207051362c095c4606a6def85dd648b595c50b1
+413	album	The Separation	Jon Bellion	None	Jim Morrison	pop rap	2013	https://p.scdn.co/mp3-preview/e0e6e50d80bcec36924680770aa54def9f51666c
+414	album	I met you when I was 18. (the playlist)	Lauv	None	Paris in the Rain	pop	2018	https://p.scdn.co/mp3-preview/d64e1de78c47c4bce1560c5207d7420983cc865c
+415	single	The Village	Wrabel	None	The Village	indie pop	2017	https://p.scdn.co/mp3-preview/ef4ce13ca4f9b904ae9f1158a7205467ca89e8b2
+416	album	LA DIVINE	Cold War Kids	Bishop Briggs	So Tied Up	indie pop	2017	https://p.scdn.co/mp3-preview/84449d3f64c360ffc4965fa4ef7d3fb187d7a6a8
+417	single	My Thoughts on You	The Band CAMINO	None	My Thoughts on You	indie pop	2017	https://p.scdn.co/mp3-preview/32bf0f0a519a2279f2f32d6f23275df26871e66c
+418	album	Clairvoyant	The Contortionist	None	Clairvoyant	djent	2017	https://p.scdn.co/mp3-preview/19b0ad21d13f3308f761bd961937b5bb655d0a41
+419	album	Different Animals	Volumes	None	Finite	djent	2017	https://p.scdn.co/mp3-preview/2fd5ab102f9048ae29508bbc400169a6078664de
+420	single	When You're Gone	VERITE	None	When You're Gone	indie pop	2017	https://p.scdn.co/mp3-preview/e0d47893b4e37fce628684c4dedf222b20c88125
+421	single	Best of the Year Medleys: 2007 - 2012	Anthem Lights	None	Best of 2012: Payphone \ Call Me Maybe \ Wide Awake \ Starships \ We Are Young	mash up	2015	https://p.scdn.co/mp3-preview/bdfd215233796cead411b5e0c6b96229598a5a7a
+422	single	To Do	Mark Farina	Kaskade	Dream Machine - Kaskade Mix	electro jazz	2003	https://p.scdn.co/mp3-preview/4920f56263dcb819edf789facabeac0c4236aa9f
+423	album	Mothership	Dance Gavin Dance	None	Young Robot	pop punk	2016	https://p.scdn.co/mp3-preview/8882c6da8c40db50fe1973a9ff4b3bec770b9d26
+424	album	Salute (Expanded Edition)	Little Mix	None	Move	pop	2013	https://p.scdn.co/mp3-preview/bdedb999f5dc4b8838fb1dc0416984db17bd23ef
+425	album	Rainbow	Kesha	None	Hymn	pop	2017	https://p.scdn.co/mp3-preview/d26cfb8afea52313ef1aadd855d408d0b625fc2e
+426	album	Tell Me You Love Me (Deluxe)	Demi Lovato	None	Sorry Not Sorry	dance pop	2017	https://p.scdn.co/mp3-preview/4b32ff10f00af6a41a9073aa55de37fed8620939
+427	album	Mura Masa	Mura Masa	Bonzai	Nuggets	edm	2017	https://p.scdn.co/mp3-preview/bdd2003fb801208a9ce5fbc1218b67d307d99343
+428	album	Rainbow	Kesha	The Dap-Kings Horns	Woman	pop	2017	https://p.scdn.co/mp3-preview/b7759c3f7098d4c2f9312867df675caf638e1f8f
+429	album	Before These Crowded Streets	Dave Matthews Band	None	Stay (Wasting Time)	pop rock	1998	https://p.scdn.co/mp3-preview/4b7ce7dee4b511772558db591928a62fbe0aac3e
+430	compilation	20th Century Masters: The Millennium Collection: Best Of Night Ranger	Night Ranger	None	Sister Christian	classic rock	2000	https://p.scdn.co/mp3-preview/a1c0a719f994297d19633d0f4d8dbdc6f6884194
+431	album	Rainbow	Kesha	None	Praying	pop	2017	https://p.scdn.co/mp3-preview/f5d8d2d7787d4c69c795dd6682477edd5a50aaaf
+432	album	This Is All Yours	alt-J	None	Left Hand Free	indie rock	2014	https://p.scdn.co/mp3-preview/99b4aaddb6198c483b852d8d69f3ac545ea56675
+433	album	A Dream in Static	Earthside	Lajon Witherspoon, Moscow Studio Symphony Orchestra	Mob Mentality	djent	2015	https://p.scdn.co/mp3-preview/d7f1c99e678c34da292495ccc050bbe8f14f6b5f
+434	single	Lion	Anup Sastry	None	Free Fall	djent	2014	https://p.scdn.co/mp3-preview/5a293024efb77b321301f8dedf4ab2d47f777d33
+435	single	Spotify Singles	alt-J	None	Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY	indie rock	2017	https://p.scdn.co/mp3-preview/3d30406be88764d0457fa4e02f9929f62ce3b3b6
+436	album	Visions	Grimes	None	Vowels = Space and Time	pop	2012	https://p.scdn.co/mp3-preview/409fa673695ee5f579b396be36495eaf0ab58563
+437	album	Lun	Destiny Potato	None	Take a Picture	djent	2014	https://p.scdn.co/mp3-preview/75ea0ceea41850da53e935807d345e5f9aec5e8b
+438	album	Lun	Destiny Potato	None	The Build Up	djent	2014	https://p.scdn.co/mp3-preview/32f12675ee1595e177e949bd8ddc5b562aa1f90e
+439	album	Lun	Destiny Potato	None	Blue Sun	djent	2014	https://p.scdn.co/mp3-preview/4c61aaac54615906cd66555c7e1dcaf92f2fd1e4
+440	album	Evolve	Imagine Dragons	None	Whatever It Takes	modern rock	2017	https://p.scdn.co/mp3-preview/994c1bb6ecf361190228dcd0ad2404a2d46f3ff1
+441	album	The Language of My World	Macklemore	None	Contradiction	pop rap	2005	https://p.scdn.co/mp3-preview/61ebb52f916677a439b1e47f36f0850aaf64eeaa
+442	album	The Impossible Kid	Aesop Rock	None	Mystery Fish	hip hop	2016	https://p.scdn.co/mp3-preview/d842dcc7d699fefc7bb2cc016e0d9dc408112d22
+443	album	Dreaming With Our Eyes Open	Witt Lowry	None	Tourist	pop rap	2015	https://p.scdn.co/mp3-preview/12a267597b36412126f0289de18cfcf6762287d3
+444	album	Our Endless Numbered Days (Deluxe Edition)	Iron & Wine	None	Naked as We Came	indie pop	2004	https://p.scdn.co/mp3-preview/170b5ffe43f0c9eac739166843138cd3f72440f6
+445	single	Between The Bars (EP)	The Civil Wars	None	Between the Bars	indie folk	2012	https://p.scdn.co/mp3-preview/770f3e92f6038234b1b9385d9b6b813bf1d82654
+446	album	Strictly Rude	Big D and the Kids Table	None	Shining On	ska punk	2007	https://p.scdn.co/mp3-preview/fc146e656de99d09c44852ec3f84b335d9ba380f
+447	album	The Hands That Thieve	Streetlight Manifesto	None	The Hands That Thieve	punk	2013	https://p.scdn.co/mp3-preview/12216e327c7cd7774234c17270b2cecc4d58c259
+448	album	For Blood And Empire	Anti-Flag	None	This Is the End (For You My Friend)	punk	2006	https://p.scdn.co/mp3-preview/4f85e0ab6f6fe6adb974bc75adf6ce0d98c518cb
+449	album	The Hands That Thieve	Streetlight Manifesto	None	Toe to Toe	punk	2013	https://p.scdn.co/mp3-preview/cedecd09fefe5e5ca5d40017e511508b0cb7751d
+450	compilation	The Best Of Goldfinger	Goldfinger	None	99 Red Balloons	pop punk	2005	https://p.scdn.co/mp3-preview/174f1f476ef4f1071e0b5c7d30f5277834a51b4d
+451	album	Keasbey Nights	Catch 22	None	Keasbey Nights	punk	1998	https://p.scdn.co/mp3-preview/584898c0a733cb6e3086dde7d163ab326c6c468f
+452	album	Drunken Lullabies	Flogging Molly	None	What's Left of the Flag	punk	2002	https://p.scdn.co/mp3-preview/31f4e43d0bf0d3c0e59ca10e153ecf7342753f6f
+453	album	True Brew	Millencolin	None	True Brew	pop punk	2015	https://p.scdn.co/mp3-preview/ed72a48d51999b21f51157f5b58804a2c85d58e6
+454	album	Drunken Lullabies	Flogging Molly	None	Drunken Lullabies	punk	2002	https://p.scdn.co/mp3-preview/8d3029a482fa122ba028eb2737f1464314aad5d3
+455	album	Life Is Good	Flogging Molly	None	Until We Meet Again	punk	2017	https://p.scdn.co/mp3-preview/ea6bbb06e9a4ed297120c116c0197db669f5f3bb
+456	album	RELAXER	alt-J	None	3WW	indie rock	2017	https://p.scdn.co/mp3-preview/bb14cfa334463b19ab1c97e4626ef20519236ab4
+457	album	RELAXER	alt-J	None	House of the Rising Sun	indie rock	2017	https://p.scdn.co/mp3-preview/84b676a6d484c2e62ca6d974cf4ba1f712053f01
+458	album	RELAXER	alt-J	None	Hit Me Like That Snare	indie rock	2017	https://p.scdn.co/mp3-preview/4bf125a3368dcae28bb1f766c72f7d698a6ffb17
+459	album	RELAXER	alt-J	None	Deadcrush	indie rock	2017	https://p.scdn.co/mp3-preview/37fe3fe46dd7328f128bb05a803764c1a908e37e
+460	album	RELAXER	alt-J	None	Adeline	indie rock	2017	https://p.scdn.co/mp3-preview/aa42a4f49fdae73a2d595a74c3619bd9c32be169
+461	album	RELAXER	alt-J	None	Last Year	indie rock	2017	https://p.scdn.co/mp3-preview/04f2d85b65ac1e37dc38b5487d138bb2567c2813
+462	album	RELAXER	alt-J	None	Pleader	indie rock	2017	https://p.scdn.co/mp3-preview/9a97d252ae7cdd7f7a14d7e9a8a3f894a854fc8f
+463	album	RELAXER	alt-J	None	In Cold Blood	indie rock	2017	https://p.scdn.co/mp3-preview/b36d1198f57370c4350178ab20a73c40ab010e64
+464	album	Alternative 4	Anathema	None	Fragile Dreams	progressive metal	1998	https://p.scdn.co/mp3-preview/d2fdee2a880953adf4b5072627da27f14fdd6384
+465	album	Affinity (Deluxe Edition)	Haken	None	Earthrise	progressive metal	2016	https://p.scdn.co/mp3-preview/d3cd8819ac6a0f34bb4e06ea636d2b11217d6977
+466	album	Affinity (Deluxe Edition)	Haken	None	The Architect	progressive metal	2016	https://p.scdn.co/mp3-preview/fc9e45f1e0ba053489324419b51e3d9a7f5b3a53
+467	album	Damnation	Opeth	None	In My Time of Need	progressive metal	2003	https://p.scdn.co/mp3-preview/2ccdb68ff0333dcaa0ea2f9c5e0dabb4a95751c6
+468	album	Affinity	Haken	None	The Architect	progressive metal	2016	https://p.scdn.co/mp3-preview/fc9e45f1e0ba053489324419b51e3d9a7f5b3a53
+469	album	Affinity	Haken	None	The Endless Knot	progressive metal	2016	https://p.scdn.co/mp3-preview/f570fe6c64ac2e556f0b1754b6b068d1ffd0d6e9
+470	album	Affinity	Haken	None	1985	progressive metal	2016	https://p.scdn.co/mp3-preview/7ac7a3429888c6bca04f92f60a79780ea9d74384
+471	album	More Than You Know	Axwell \\ Ingrosso	None	More Than You Know	edm	2017	https://p.scdn.co/mp3-preview/82a1fb5184bd5c0fddeab5a76b0b6e8ea7ea52c1
+472	single	Put The Knife Away	Goldfinger	None	Put The Knife Away	pop punk	2017	https://p.scdn.co/mp3-preview/95e2da829a4d814620d5da861191ce4b8d172b34
+473	single	Say Yes	Honors	None	Say Yes	canadian contemporary r&b	2017	https://p.scdn.co/mp3-preview/bf6e669a01d0b6d594cf86c3d31f713a4165ac08
+474	album	Hello Rockview	Less Than Jake	None	All My Best Friends Are Metalheads	pop punk	1998	https://p.scdn.co/mp3-preview/0dbf1a24abb41719f550a8ce76cf1a3beb40a01b
+475	album	Sex, Love And Rock 'N' Roll	Social Distortion	None	Reach For The Sky	pop punk	2004	https://p.scdn.co/mp3-preview/ab31ee962cd2320c3dcd61ac833c4168c588f6a6
+476	album	Somewhere in the Between	Streetlight Manifesto	None	What a Wicked Gang Are We	punk	2007	https://p.scdn.co/mp3-preview/4eb909b356223a8a0351462a36d4690bb2284feb
+477	album	Losing Streak	Less Than Jake	None	Never Going Back To New Jersey	pop punk	1996	https://p.scdn.co/mp3-preview/a7cecadc1a8ed9aecdae1f9459162083ff23472d
+478	album	Coeur de pirate	Coeur De Pirate	None	Corbeau	french pop	2008	https://p.scdn.co/mp3-preview/b7ad95ede1d2c6ad29205f67b93e59e85ca6e90a
+479	album	Lostin Austin	Balancing the Different	None	Stop It (Cb)	pop punk	2014	https://p.scdn.co/mp3-preview/d71d99cc1c7962e7a832af79edb3a8bc69249521
+480	album	LP4	Ratatat	None	Grape Juice City	electronica	2010	https://p.scdn.co/mp3-preview/3813e0e52cb2668a7db0d31cb77974be6d09b816
+481	album	Classics	Ratatat	None	Loud Pipes	electronica	2006	https://p.scdn.co/mp3-preview/5849558be3e21acb1a5f0a2e942ad764a8e70abc
+482	album	Lies for the Liars	The Used	None	Pretty Handsome Awkward	pop punk	2007	https://p.scdn.co/mp3-preview/de96849cd20aa3cfda867ba7bdc387f2acf83c87
+483	album	Lies for the Liars	The Used	None	The Bird and the Worm	pop punk	2007	https://p.scdn.co/mp3-preview/232ec4947072d2765b40be161391bbf346ad9d85
+484	album	Dying Is Your Latest Fashion	Escape the Fate	None	Situations	pop punk	2006	https://p.scdn.co/mp3-preview/a4344fa63753c999c6e96cf20472e9ae6404da76
+485	album	Dead Reflection	Silverstein	None	Retrograde	pop punk	2017	https://p.scdn.co/mp3-preview/7911be027b696f48f9ca6d6c085e2123f49fd637
+486	single	Je serai la - Single	Vincent Dupont	None	Je serai la	None	2017	https://p.scdn.co/mp3-preview/c1395b065b4198f3588402ed425a1f04201fd4bf
+487	album	Pocket Full Of Kryptonite (Anniversary Edition)	Spin Doctors	None	Two Princes	pop rock	1991	https://p.scdn.co/mp3-preview/34668206165f927a08afe266f9ebe40df7427f1e
+488	album	Blur [Special Edition]	Blur	None	Song 2 - 2012 Remaster	pop rock	1997	https://p.scdn.co/mp3-preview/183c0855e94b58dcb267e2b0721d4a3c99260acf
+489	album	Dance Gavin Dance	Dance Gavin Dance	None	Uneasy Hearts Weigh The Most	pop punk	2008	https://p.scdn.co/mp3-preview/0565e9e667395c5f89d23d7b4030fd1520839c27
+490	album	They're Only Chasing Safety	Underoath	None	A Boy Brushed Red Living In Black And White	pop punk	2004	https://p.scdn.co/mp3-preview/5348e561faf0fbdb50992f5d82b4e5f692d68df5
+491	album	In Colour	Jamie xx	Oliver Sim	Stranger In A Room	electronica	2015	https://p.scdn.co/mp3-preview/a11b3e35f024f7bd5904bdea55dd40120968d947
+492	album	In Colour	Jamie xx	None	Gosh	electronica	2015	https://p.scdn.co/mp3-preview/9efe53306c164599544b6d693608181d8a18a1a6
+493	album	The Way of all Flesh	Gojira	None	VACUITY	alternative metal	2008	https://p.scdn.co/mp3-preview/685cc4e4c03ff79b884a908a18715363c5bbbfd4
+494	album	From Mars to Sirius	Gojira	None	The Heaviest Matter Of The Universe	alternative metal	2005	https://p.scdn.co/mp3-preview/16d80b5e2cd34c97d9ee2ee5127c6efee2cd64e5
+495	album	Is a Real Boy	Say Anything	None	Alive With the Glory of Love	pop punk	2005	https://p.scdn.co/mp3-preview/0973571e49172da92ccabe2560294f9309f6a870
+496	album	Is a Real Boy	Say Anything	None	Wow, I Can Get Sexual Too	pop punk	2005	https://p.scdn.co/mp3-preview/79fe29758b92cf4dc33c765109800ea686555050
+497	album	The Used	The Used	None	The Taste of Ink	pop punk	2002	https://p.scdn.co/mp3-preview/ed98107407f0147bd0a0e8f3cfb909046743b7cb
+498	album	England Keep My Bones (Deluxe Edition)	Frank Turner	None	Peggy Sang The Blues	folk punk	2011	https://p.scdn.co/mp3-preview/942c06218fefc290f5e03d941cd626e560f66dfe
+499	album	Megalithic Symphony Deluxe	AWOLNATION	None	THISKIDSNOTALRIGHT	pop rock	2011	https://p.scdn.co/mp3-preview/16aeb44b727f0cfd4a2d24e74645e25bc4b2abb9
+500	album	Eleven Eleven	Dinosaur Pile-Up	None	Bad Penny	modern alternative rock	2015	https://p.scdn.co/mp3-preview/371b4945d5117b9ca2fa9e64e7df271cad8047e6
+501	album	Clarity	Zedd	Foxes	Clarity	dance pop	2012	https://p.scdn.co/mp3-preview/2978533425921eb085e1c718dcac55fe5d3412a4
+502	album	Evolve	Imagine Dragons	None	Whatever It Takes	modern rock	2017	https://p.scdn.co/mp3-preview/994c1bb6ecf361190228dcd0ad2404a2d46f3ff1
+503	album	Pump Up The Valuum	NOFX	None	Dinosaurs Will Die	punk	2000	https://p.scdn.co/mp3-preview/76b4672bcab7910fe67d17ac067b7600c5034076
+504	album	Hell Is What You Make It	Breathe Carolina	None	Blackout	pop punk	2011	https://p.scdn.co/mp3-preview/f9a6c751976f4804ea81d4d2bc2462a3fa0ec059
+505	album	A Tribute to Movie Hits of the 90's	The Hit Crew	None	Here Comes the Hotstepper	None	2012	https://p.scdn.co/mp3-preview/c6ed476c51491952169db07e22ae501d5ad5100b
+506	album	After Laughter	Paramore	None	Idle Worship	pop punk	2017	https://p.scdn.co/mp3-preview/6bc1b3c055968a532bf055436b14cbca794734da
+507	compilation	RetroSpective: The Best Of Suzanne Vega	DNA	Suzanne Vega, Neal Slateford, Nick Batt	Tom's Diner - 7" Version	None	2003	https://p.scdn.co/mp3-preview/f8d3e32ff75b68e4723225ec1ea9c80a9c556856
+508	album	Rewind	Ini Kamoze	None	Here Comes The Hotstepper	reggae fusion	2013	https://p.scdn.co/mp3-preview/7c43c6dd94a92ccc025a67707c6edb4ca228439a
+509	album	Another Level	Blackstreet	Dr. Dre, Queen Pen	No Diggity	hip hop	1996	https://p.scdn.co/mp3-preview/c216640c68846d6587123371495115e119b53f0d
+510	album	L'amour Est Laid	Guillaume Grand	None	Toi et moi	french pop	2010	https://p.scdn.co/mp3-preview/d0bc1aef417492f38478c6c60816b64c0ae1b765
+511	album	Repenti	Renan Luce	None	La lettre	french pop	2006	https://p.scdn.co/mp3-preview/6a75ef137a3ac75c5268ff3f4ae5a1e4f4f4145f
+512	album	New Wave (U.S. Version)	Against Me!	None	Thrash Unreal	punk	2007	https://p.scdn.co/mp3-preview/2fc95dda220f8999b2260d00998f6a074f662c37
+513	album	Coeur de pirate	Coeur De Pirate	None	Comme des enfants	french pop	2008	https://p.scdn.co/mp3-preview/a56433e4b6b1748b7b4804ffc24759cd1f38f885
